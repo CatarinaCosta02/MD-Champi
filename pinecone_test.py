@@ -6,21 +6,21 @@ import os
 from dotenv import load_dotenv
 import time
 from langchain_community.embeddings import OllamaEmbeddings
+from langchain_pinecone import PineconeVectorStore
 import numpy as np
 from loader import load_docs, split_docs, transform_text, extract_metadata
-from langchain_pinecone import PineconeVectorStore
+from chat import chat_with_ollama
 import json
 
 
 
-paths = ["data/plan/3daybeginners.pdf"]
-
-        #  "data/plan/3dayworkoutroutineanddietforbeginners.pdf",
-        #  "data/plan/8weekbeginnerfatlossworkoutforwomen_0.pdf",
-        #  "data/plan/8weekbeginnerworkoutforwomen.pdf",
-        #  "data/plan/12weekfullbodyworkoutroutineforbeginners.pdf",
-        #  "data/plan/startfromscratch.pdf",
-        #  "data/plan/thebest15minutewarmups.pdf"
+paths = ["data/plan/3daybeginners.pdf", 
+         "data/plan/3dayworkoutroutineanddietforbeginners.pdf",
+         "data/plan/8weekbeginnerfatlossworkoutforwomen_0.pdf",
+         "data/plan/8weekbeginnerworkoutforwomen.pdf",
+         "data/plan/12weekfullbodyworkoutroutineforbeginners.pdf",
+         "data/plan/startfromscratch.pdf",
+         "data/plan/thebest15minutewarmups.pdf"]
 
 
 load_dotenv()
@@ -99,13 +99,6 @@ for doc in documents:
         vectors_dict[vector_count] = vector
 
 
-print(f'len(vectors_dict.items()): {len(vectors_dict.items())}')
-
-
-# print(f'vectors_dict: {vectors_dict}')
-# print(f'vectors_dict.items(): {vectors_dict.items()}')
-
-
 # embedded_vectors = []
 # for _, vector in vectors_dict.items():
 #     print(f'Vector: {vector}')
@@ -134,10 +127,8 @@ embedded_vectors = embedded_vectors_data
 
 # Flatten embedded_vectors if it's a list of lists
 flattened_vectors = [item for sublist in embedded_vectors for item in sublist]
-# print(f'Flattened vectors: {flattened_vectors}')
 
 embedded_ids = [str(uuid.uuid4()) for _ in range(len(flattened_vectors))]
-# print(f'Embedded IDs: {embedded_ids}')
 
 metadata = []
 for doc in vectors_dict.items():
@@ -146,14 +137,8 @@ for doc in vectors_dict.items():
 
 print(f'\n\nmetadata: {metadata}')
 
-# Combine vectors into the required structure
 vectors_to_upsert = [{"id": id, "values": vector, "metadata": metadt} for id, vector, metadt in zip(embedded_ids, flattened_vectors, metadata)]
-# print(f'Vectors to upsert: {vectors_to_upsert}')
-
-# Now, you can use 'vectors_to_upsert' with your index.upsert method
 index.upsert(vectors=vectors_to_upsert)
-
-
 
 
 print(f'\n------after inserting data------')
@@ -162,22 +147,20 @@ print(index.describe_index_stats())
 
 print(f'\n-------------------TESTAR SIMILAR SEARCH------------------')
 
-#text_field = None
-# initialize the vector store object
-# vectorstore = Pinecone(index, embed_model.embed_query, text_field)
-
 vectorstore = PineconeVectorStore(index=index, embedding=embeddings, text_key="text")
-# vectorstore = PineconeVectorStore.from_documents(documents, embeddings, index_name=index_name)
-
-# vectorstore = Pinecone(
-#     index_name=index_name,
-#     embedding=embeddings
-# )
-
 print(f'vectorstore: {vectorstore}')
 
 query = "Give me a workout plan"
-vectorstore.similarity_search(query, k=3)
+docs = vectorstore.similarity_search(query, k=3)
+
+##############################################################################################
+# arranjar maneira de retirar info dos docs (de cima) para enviar como context (em baixo)
+##############################################################################################
+
+context = "Context based on the retrieved document"
+response = chat_with_ollama(query, context)
+
+print(f"Response: {response}")
 
 
 sys.exit()
@@ -190,7 +173,7 @@ chain = (
     | parser
 )
 
-chain.invoke("What is Hollywood going to start doing?")
+chain.invoke(query)
 
 def augment_prompt(query: str):
     # get top 3 results from knowledge base
