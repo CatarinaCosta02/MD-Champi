@@ -61,7 +61,7 @@ def chat_with_ollama(query, context):
     return response.strip()
 
 
-query = "I´m bad at physics"
+query = "Give me a workout routine for begginers"
 context = "I'd like to understand string theory"
 
 # Chama a função para iniciar a interação

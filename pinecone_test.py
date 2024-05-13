@@ -65,7 +65,7 @@ time.sleep(1)
 
 # view index stats
 b = index.describe_index_stats()
-print(f'index stats: {b}')
+print(f'index stats: {b}\n')
 
 embeddings = OllamaEmbeddings(model="llama3")
 
@@ -140,9 +140,15 @@ print(f'\n\nmetadata: {metadata}')
 vectors_to_upsert = [{"id": id, "values": vector, "metadata": metadt} for id, vector, metadt in zip(embedded_ids, flattened_vectors, metadata)]
 index.upsert(vectors=vectors_to_upsert)
 
+# esperar que as stats docindex atualizem
+while True:
+    time.sleep(1)  # Wait for a short period before checking again
+    current_stats = index.describe_index_stats()
+    if b['vector_count'] == current_stats['vector_count']:
+        break
 
 print(f'\n------after inserting data------')
-print(index.describe_index_stats())
+print(current_stats)
 
 
 print(f'\n-------------------TESTAR SIMILAR SEARCH------------------')
@@ -150,17 +156,43 @@ print(f'\n-------------------TESTAR SIMILAR SEARCH------------------')
 vectorstore = PineconeVectorStore(index=index, embedding=embeddings, text_key="text")
 print(f'vectorstore: {vectorstore}')
 
-query = "Give me a workout plan"
-docs = vectorstore.similarity_search(query, k=3)
 
-##############################################################################################
-# arranjar maneira de retirar info dos docs (de cima) para enviar como context (em baixo)
-##############################################################################################
+# Function to handle user input and perform operations
+def chat():
+    query = input("\nEnter your message: ")
+    if query.lower() == "exit":
+        print("Exiting...")
+        return False
+    elif query is None:
+        query = "Give me a workout plan for begginers"
+    else:
+        docs = vectorstore.similarity_search(query, k=3)
+        context = "\n".join([doc.page_content for doc in docs])
+        
+        # Assuming chat_with_ollama is defined elsewhere in your code
+        response = chat_with_ollama(query, context)
+        print(f'\nChampi: \n{response}')
+        return True
 
-context = "Context based on the retrieved document"
-response = chat_with_ollama(query, context)
+# Main loop to continuously accept user input
+while True:
+    if not chat():
+        break
 
-print(f"Response: {response}")
+
+# # query = "Give me a workout plan for begginers focused on legs only"
+# query = input("\nEnter your message: ")
+# if query is None:
+#     query = "Give me a workout plan for begginers"
+
+# docs = vectorstore.similarity_search(query, k=3)
+
+# context = "\n".join([doc.page_content for doc in docs])
+
+# # context = "Context based on the retrieved document"
+# response = chat_with_ollama(query, context)
+
+# print(f'\nChampi: \n{response}')
 
 
 sys.exit()

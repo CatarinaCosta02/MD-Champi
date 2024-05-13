@@ -58,7 +58,7 @@ def extract_metadata(doc_content):
     doc_content = doc_content.removeprefix("page_content='").strip().rstrip("'")
     metadata = {}
 
-    print(f'\n\ndoc_content: \n{doc_content}')
+    # print(f'\n\ndoc_content: \n{doc_content}')
 
     df = pd.read_csv('data/datasets/df_exer.csv')
 
