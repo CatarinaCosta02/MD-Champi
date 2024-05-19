@@ -7,3 +7,5 @@ python-dotenv
 pypdf
 pytest
 pandas
+tqdm
+scikit-learn

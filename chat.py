@@ -1,49 +1,25 @@
+import os
+import sys
+import time
 from langchain_community.chat_models import ChatOllama
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
-
-
-# def chat_with_ollama():
-#     print("Entrei")
-#     messages = []
-#     # Inicializando o modelo Ollama com o modelo "llama3"
-#     llm = ChatOllama(model="llama3")
-#     #prompt = ChatPromptTemplate.from_template("Tell me a short joke about {topic}")
-#     template = """
-#     Answer the question based on the context below. If you can't 
-#             answer the question, reply "I don't know".
-
-#             Context: {context}
-
-#             Question: {question}
-#     """
-#     prompt = ChatPromptTemplate.from_template(template)
-#     prompt.format(context="I´m bad at physics", question="I'd like to understand string theory")
-#     parser = StrOutputParser()
-#     chain = prompt | llm | parser
-#     response = chain.invoke({
-#         "context": "I´m bad at physics",
-#         "question": "I'd like to understand string theory"
-#     })
-    
-#     content = response.strip().lower()
-#     # add latest response to the chat
-#     messages.append(content)
-#     print(f'Champi: {content}\n')
-
-#     if "true" in content:
-#         # Print response in Green if it is correct.
-#         print("\033[92m" + f"Response: {content}" + "\033[0m")
-#         return True
-
+from dotenv import load_dotenv
+from pinecone import ServerlessSpec, Pinecone
+from langchain_community.embeddings import OllamaEmbeddings
+from langchain_pinecone import PineconeVectorStore
+from pinecone_handler import get_index
 
 
 def chat_with_ollama(query, context):
+    
     llm = ChatOllama(model="llama3")
 
     template = """
     Answer the question based on the context below. If you can't 
-            answer the question, reply "I don't know".
+            answer the question, reply "I don't know". If the 
+            question has nothing to do with the context, 
+            answer the question normally.
 
             Context: {context}
 
@@ -61,8 +37,37 @@ def chat_with_ollama(query, context):
     return response.strip()
 
 
-query = "Give me a workout routine for begginers"
-context = "I'd like to understand string theory"
 
-# Chama a função para iniciar a interação
-chat_with_ollama(query, context)
+def chatbot(vectorstore):
+    query = input("\nEnter your message: ")
+    if query.lower() == "exit":
+        print("Exiting...")
+        return False
+    elif query is None:
+        query = "Give me a workout plan for beginners"
+    else:
+        docs = vectorstore.similarity_search(query, k=3)
+        context = "\n".join([doc.page_content for doc in docs])
+        response = chat_with_ollama(query, context)
+        print(f'\nChampi: \n{response}')
+    return response
+
+
+def main():
+    index_name = 'champi'
+    index = get_index(index_name)
+    
+    embeddings = OllamaEmbeddings(model="llama3")
+    vectorstore = PineconeVectorStore(index=index, embedding=embeddings, text_key="text")
+
+    print(f'\n-------------------CHATBOT - Champi------------------')
+    start_time = time.time()
+    response = chatbot(vectorstore)
+    end_time = time.time()
+    elapsed_time_in_minutes = (end_time - start_time) / 60
+    print(f"Response time: {elapsed_time_in_minutes:.2f} minutes")
+    print(response)
+
+
+if __name__ == "__main__":
+    main()

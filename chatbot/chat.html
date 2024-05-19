@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Create Your Own Chatbot</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700,300">
+    <!-- Material Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.1.2/css/material-design-iconic-font.min.css">
+    <!-- Additional Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="card">
+        <div id="header">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <div id="message-section">
+            <div class="message" id="bot">
+                <span id="bot-response">Hello! I am your AI training assistant.</span>
+            </div>
+        </div>
+        <div id="input-section">
+            <input id="input" type="text" placeholder="Type a message" autocomplete="off" autofocus="autofocus"/>
+            <button class="send" onclick="sendMessage()">
+                <div class="circle">
+                    <i class="zmdi zmdi-mail-send" style="color: #800080;"></i>
+                </div>
+            </button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

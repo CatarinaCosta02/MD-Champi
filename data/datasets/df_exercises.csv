@@ -1,0 +1,1784 @@
+exercise_name,type,bodypart,equipment,target
+Bench barbell roll-out,Strength,Abdominals,Barbell,none
+Barbell Side Bend,Strength,Abdominals,Barbell,none
+Advanced Kettlebell Windmill,Strength,Abdominals,Kettlebells,none
+Kettlebell Pass Between The Legs,Strength,Abdominals,Kettlebells,none
+Dumbbell spell caster,Strength,Abdominals,Dumbbell,none
+Plate Twist,Strength,Abdominals,Other,none
+Bosu Ball Cable Crunch With Side Bends,Strength,Abdominals,Cable,none
+Cable reverse crunch,Strength,Abdominals,Cable,none
+Cable Russian Twists,Strength,Abdominals,Cable,none
+Cable Seated Crunch,Strength,Abdominals,Cable,none
+Cable Judo Flip,Strength,Abdominals,Cable,none
+Gorilla Chin/Crunch,Strength,Abdominals,Body Only,none
+Crunch - Hands Overhead,Strength,Abdominals,Body Only,none
+Stomach Vacuum,Stretching,Abdominals,Body Only,none
+Butt-Ups,Strength,Abdominals,Body Only,none
+Janda Sit-Up,Strength,Abdominals,Body Only,none
+Leg Pull-In,Strength,Abdominals,Body Only,none
+Cross Crunch,Strength,Abdominals,Body Only,none
+Full Moon,Strength,Abdominals,Body Only,none
+Hanging knee raise with manual resistance,Strength,Abdominals,Body Only,none
+Partner lying leg raise with lateral throw down,Strength,Abdominals,Body Only,none
+Hanging leg raise with throw down,Strength,Abdominals,Body Only,none
+Partner sit-up with high-five,Strength,Abdominals,Body Only,none
+Partner lying leg raise with throw down,Strength,Abdominals,Body Only,none
+Partner target sit-up,Strength,Abdominals,Body Only,none
+Suspended Crunch,Strength,Abdominals,Body Only,none
+Partner front Russian twist and pass,Strength,Abdominals,Medicine Ball,none
+Partner side Russian twist and pass,Strength,Abdominals,Medicine Ball,none
+Weighted Ball Side Bend,Strength,Abdominals,Exercise Ball,none
+Band Hip Adductions,Strength,Adductors,Bands,none
+Adductor SMR,Stretching,Adductors,Foam Roll,none
+Lying Bent Leg Groin,Stretching,Adductors,Other,none
+Standing Hip Circles,Stretching,Abductors,Body Only,none
+Groiners,Stretching,Adductors,Body Only,none
+Fire Hydrant,Strength,Abductors,Body Only,none
+Side Leg Raises,Stretching,Adductors,Body Only,none
+Single-leg lying cross-over stretch,Stretching,Abductors,Body Only,none
+Groin and Back Stretch,Stretching,Adductors,none,none
+Adductor/Groin,Stretching,Adductors,none,none
+Brachialis SMR,Stretching,Biceps,Foam Roll,none
+Wide-grip barbell curl,Strength,Biceps,Barbell,none
+Close-grip EZ-bar curl,Strength,Biceps,Barbell,none
+Barbell Curls Lying Against An Incline,Strength,Biceps,Barbell,none
+Seated Close-Grip Concentration Barbell Curl,Strength,Biceps,Barbell,none
+Close-grip barbell curl,Strength,Biceps,Barbell,none
+Drag curl,Strength,Biceps,Barbell,none
+Lying High Bench Barbell Curl,Strength,Biceps,Barbell,none
+Seated wide-grip curl to close-grip curl,Strength,Biceps,Barbell,none
+Seated Straigh-Bar Curl Superset,Strength,Biceps,Barbell,none
+Incline Hammer Curls,Strength,Biceps,Dumbbell,none
+Biceps curl to shoulder press,Strength,Biceps,Dumbbell,none
+Flexor Incline Dumbbell Curls,Strength,Biceps,Dumbbell,none
+Cross-body hammer curl,Strength,Biceps,Dumbbell,none
+Standing concentration curl,Strength,Biceps,Dumbbell,none
+Preacher Hammer Dumbbell Curl,Strength,Biceps,Dumbbell,none
+Lying Supine Dumbbell Curl,Strength,Biceps,Dumbbell,none
+Standing Dumbbell Reverse Curl,Strength,Biceps,Dumbbell,none
+Palms-out incline biceps curl,Strength,Biceps,Dumbbell,none
+Straight-arm plank with biceps curl,Strength,Biceps,Dumbbell,none
+Face-down incline dumbbell biceps curl,Strength,Biceps,Dumbbell,none
+Seated Dumbbell Inner Biceps Curl,Strength,Biceps,Dumbbell,none
+Standing Inner-Biceps Curl,Strength,Biceps,Dumbbell,none
+Reverse Plate Curls,Strength,Biceps,Other,none
+Standing Biceps Stretch,Stretching,Biceps,Other,none
+Suspended Curl,Strength,Biceps,Other,none
+Plate hammer curl,Strength,Biceps,Other,none
+Standing One-Arm Cable Curl,Strength,Biceps,Cable,none
+Reverse Cable Curl,Strength,Biceps,Cable,none
+Lying cable biceps curl,Strength,Biceps,Cable,none
+Cable rope preacher hammer curl,Strength,Biceps,Cable,none
+Lying Close-Grip Bar Curl On High Pulley,Strength,Biceps,Cable,none
+Machine Bicep Curl,Strength,Biceps,Machine,none
+Machine Preacher Curls,Strength,Biceps,Machine,none
+Seated Biceps,Stretching,Biceps,Body Only,none
+Reverse Barbell Preacher Curls,Strength,Biceps,E-Z Curl Bar,none
+Close-Grip EZ-Bar Curl with Band,Strength,Biceps,E-Z Curl Bar,none
+Calf Raises - With Bands,Strength,Calves,Bands,none
+Calf SMR,Stretching,Calves,Foam Roll,none
+Rocking Standing Calf Raise,Strength,Calves,Barbell,none
+Standing barbell calf raise,Strength,Calves,Barbell,none
+Barbell Seated Calf Raise,Strength,Calves,Barbell,none
+Calf Raise On A Dumbbell,Strength,Calves,Dumbbell,none
+Balance Board,Strength,Calves,Other,none
+Anterior Tibialis-SMR,Stretching,Calves,Other,none
+Foot-SMR,Stretching,Calves,Other,none
+Standing Calf Raises,Strength,Calves,Machine,none
+Calf Press,Strength,Calves,Machine,none
+Smith Machine Reverse Calf Raises,Strength,Calves,Machine,none
+Knee Circles,Stretching,Calves,Body Only,none
+Ankle Circles,Stretching,Calves,none,none
+Calf Stretch Elbows Against Wall,Stretching,Calves,none,none
+Standing Soleus And Achilles Stretch,Stretching,Calves,none,none
+Cross Over - With Bands,Strength,Chest,Bands,none
+Bench Press - With Bands,Strength,Chest,Bands,none
+Bench Press With Short Bands,Powerlifting,Chest,Bands,none
+Feet-Elevated TRX Push-Up,Strength,Chest,Bands,none
+Wide-grip bench press,Strength,Chest,Barbell,none
+Wide-Grip Decline Barbell Bench Press,Strength,Chest,Barbell,none
+Neck Press,Strength,Chest,Barbell,none
+Front Raise And Pullover,Strength,Chest,Barbell,none
+Barbell Bench Press-Wide Grip,Strength,Chest,Barbell,none
+Wide-Grip Decline Barbell Pullover,Strength,Chest,Barbell,none
+Barbell Guillotine Bench Press,Strength,Chest,Barbell,none
+Extended Range One-Arm Kettlebell Floor Press,Strength,Chest,Kettlebells,none
+Kettlebell alternating floor press,Strength,Chest,Kettlebells,none
+One-Arm Kettlebell Floor Press,Strength,Chest,Kettlebells,none
+Leg-Over Floor Press,Strength,Chest,Kettlebells,none
+Hands-elevated push-up,Strength,Chest,Body Only,none
+Single-Arm Push-Up,Strength,Chest,Body Only,none
+Wide-grip hands-elevated push-up,Strength,Chest,Body Only,none
+Isometric Wipers,Strength,Chest,Body Only,none
+Clock push-up,Strength,Chest,Body Only,none
+Push-Up Wide,Strength,Chest,Body Only,none
+Close-Hands Push-Up,Strength,Chest,Body Only,none
+Tiger-bend push-up,Strength,Chest,Body Only,none
+Plyo push-up,Plyometrics,Chest,Body Only,none
+Isometric Chest Squeezes,Plyometrics,Chest,Body Only,none
+Side-to-side push-up,Strength,Chest,Body Only,none
+Typewriter push-up,Strength,Chest,Body Only,none
+Judo push-up,Strength,Chest,Body Only,none
+Superman Push-Up,Plyometrics,Chest,Body Only,none
+Wide push-up,Strength,Chest,Body Only,none
+One-Arm Push-Up,Strength,Chest,Body Only,none
+Clapping Push-Up,Plyometrics,Chest,Body Only,none
+Staggered push-up,Strength,Chest,Body Only,none
+Reverse-grip hands-elevated push-up,Strength,Chest,Body Only,none
+Triple Clap Push-Up,Plyometrics,Chest,Body Only,none
+Leverage Incline Chest Press,Strength,Chest,Machine,none
+Leverage Chest Press,Strength,Chest,Machine,none
+Decline Smith Press,Strength,Chest,Machine,none
+Leverage Decline Chest Press,Strength,Chest,Machine,none
+Smith Machine Decline Press,Strength,Chest,Machine,none
+Smith machine bench press throw,Strength,Chest,Machine,none
+Incline cable chest press,Strength,Chest,Cable,none
+Cable Chest Press,Strength,Chest,Cable,none
+Cable cross-over,Strength,Chest,Cable,none
+Standing Cable Chest Press,Strength,Chest,Cable,none
+Chest Push (multiple response),Plyometrics,Chest,Medicine Ball,none
+Chest Push (single response),Plyometrics,Chest,Medicine Ball,none
+Chest Push with Run Release,Plyometrics,Chest,Medicine Ball,none
+Chest Push from 3 point stance,Plyometrics,Chest,Medicine Ball,none
+Reverse-grip incline dumbbell bench press,Strength,Chest,Dumbbell,none
+Hammer Grip Incline DB Bench Press,Strength,Chest,Dumbbell,none
+Incline Dumbbell Bench With Palms Facing In,Strength,Chest,Dumbbell,none
+Incline Dumbbell Flyes - With A Twist,Strength,Chest,Dumbbell,none
+One-Arm Flat Bench Dumbbell Flye,Strength,Chest,Dumbbell,none
+Bodyweight Flyes,Strength,Chest,E-Z Curl Bar,none
+Drop Push,Plyometrics,Chest,Other,none
+Forward Drag with Press,Strongman,Chest,Other,none
+Chain Press,Powerlifting,Chest,Other,none
+Behind Head Chest Stretch,Stretching,Chest,Other,none
+Pass-through stretch with band,Stretching,Chest,Other,none
+Heavy Bag Thrust,Plyometrics,Chest,Other,none
+Decline Explosive Push-Up,Plyometrics,Chest,Other,none
+Suspended Chest Fly,Strength,Chest,Other,none
+Svend press,Strength,Chest,Other,none
+Bar Push-Up Smith Machine,Plyometrics,Chest,Other,none
+Exercise ball chest stretch,Stretching,Chest,Exercise Ball,none
+Bosu Ball Push-Up,Strength,Chest,Exercise Ball,none
+Standing behind-the-back wrist curl,Strength,Forearms,Barbell,none
+Seated finger curl,Strength,Forearms,Barbell,none
+Bottoms-Up Clean From The Hang Position,Strength,Forearms,Kettlebells,none
+Seated One-Arm Dumbbell Palms-Up Wrist Curl,Strength,Forearms,Dumbbell,none
+Palms-Up Dumbbell Wrist Curl Over A Bench,Strength,Forearms,Dumbbell,none
+Seated palms-down wrist curl,Strength,Forearms,Dumbbell,none
+Palms-Down Dumbbell Wrist Curl Over A Bench,Strength,Forearms,Dumbbell,none
+Seated One-Arm Dumbbell Palms-Down Wrist Curl,Strength,Forearms,Dumbbell,none
+Seated Dumbbell Palms-Up Wrist Curl,Strength,Forearms,Dumbbell,none
+Partner farmer's walk,Strength,Forearms,Dumbbell,none
+Rickshaw Carry,Strongman,Forearms,Other,none
+Wrist Roller,Strength,Forearms,Other,none
+Standing Olympic Plate Hand Squeeze,Strength,Forearms,Other,none
+Plate Pinch,Strength,Forearms,Other,none
+Seated Two-Arm Palms-Up Low-Pulley Wrist Curl,Strength,Forearms,Cable,none
+Cable Wrist Curl,Strength,Forearms,Cable,none
+Wrist Circles,Stretching,Forearms,Body Only,none
+Kneeling Forearm Stretch,Stretching,Forearms,none,none
+Hip Extension with Bands,Strength,Glutes,Bands,none
+Hip Lift with Band,Powerlifting,Glutes,Bands,none
+Kneeling Squat,Powerlifting,Glutes,Barbell,none
+Kneeling Jump Squat,Olympic Weightlifting,Glutes,Barbell,none
+Suspended Hip Thrust,Strength,Glutes,Other,none
+Pull Through,Strength,Glutes,Cable,none
+Glute Kickback,Strength,Glutes,Body Only,none
+Standing hip extension,Strength,Glutes,Body Only,none
+Seated Glute,Stretching,Glutes,Body Only,none
+Lying Glute,Stretching,Glutes,Body Only,none
+Seated Glute Stretch,Stretching,Glutes,Body Only,none
+Neck Bridge Supine,Strength,Glutes,Body Only,none
+Downward Facing Balance,Strength,Glutes,Exercise Ball,none
+Band Good Morning (Pull Through),Powerlifting,Hamstrings,Bands,none
+Hamstring-SMR,Stretching,Hamstrings,Foam Roll,none
+Clean Deadlift,Olympic Weightlifting,Hamstrings,Barbell,none
+Sumo deadlift,Powerlifting,Hamstrings,Barbell,none
+Romanian Deadlift from Deficit,Olympic Weightlifting,Hamstrings,Barbell,none
+Power Snatch,Olympic Weightlifting,Hamstrings,Barbell,none
+Power Clean from Blocks,Olympic Weightlifting,Hamstrings,Barbell,none
+Snatch Deadlift,Olympic Weightlifting,Hamstrings,Barbell,none
+Hang Snatch,Olympic Weightlifting,Hamstrings,Barbell,none
+Wide Stance Stiff Legs,Olympic Weightlifting,Hamstrings,Barbell,none
+Clean,Olympic Weightlifting,Hamstrings,Barbell,none
+Sumo Deadlift with Chains,Powerlifting,Hamstrings,Barbell,none
+Sumo Deadlift with Bands,Powerlifting,Hamstrings,Barbell,none
+Good Morning off Pins,Powerlifting,Hamstrings,Barbell,none
+Stiff-Legged Deadlift,Strength,Hamstrings,Barbell,none
+Snatch Pull,Strength,Hamstrings,Barbell,none
+Hanging Bar Good Morning,Powerlifting,Hamstrings,Barbell,none
+Reverse Band Sumo Deadlift,Powerlifting,Hamstrings,Barbell,none
+Muscle Snatch,Olympic Weightlifting,Hamstrings,Barbell,none
+Split Snatch,Olympic Weightlifting,Hamstrings,Barbell,none
+Hang Snatch - Below Knees,Olympic Weightlifting,Hamstrings,Barbell,none
+Single-arm kettlebell clean,Strength,Hamstrings,Kettlebells,none
+Romanian Deadlift with Kettlebell,Strength,Hamstrings,Kettlebells,none
+Kettlebell Dead Clean,Strength,Hamstrings,Kettlebells,none
+Alternating Hang Clean,Strength,Hamstrings,Kettlebells,none
+One-Arm Open Palm Kettlebell Clean,Strength,Hamstrings,Kettlebells,none
+Open Palm Kettlebell Clean,Strength,Hamstrings,Kettlebells,none
+Kettlebell Hang Clean,Strength,Hamstrings,Kettlebells,none
+Double Kettlebell Alternating Hang Clean,Strength,Hamstrings,Kettlebells,none
+Romanian Deadlift With Dumbbells,Strength,Hamstrings,Dumbbell,none
+Vertical Swing,Plyometrics,Hamstrings,Dumbbell,none
+Box jump,Plyometrics,Hamstrings,Other,none
+Sled push-,Cardio,Hamstrings,Other,none
+Lying Hamstring,Stretching,Hamstrings,Other,none
+Chair Leg Extended Stretch,Stretching,Hamstrings,Other,none
+Suspended Leg Curl,Strength,Hamstrings,Other,none
+Box Skip,Plyometrics,Hamstrings,Other,none
+Power Stairs,Strongman,Hamstrings,Other,none
+Seated Hamstring and Calf Stretch,Stretching,Hamstrings,Other,none
+Hamstring slide,Strength,Hamstrings,Other,none
+Lying Leg Curls,Strength,Hamstrings,Machine,none
+Reverse Hyperextension,Strength,Hamstrings,Machine,none
+Standing Leg Curl,Strength,Hamstrings,Machine,none
+Smith machine stiff-legged deadlift,Strength,Hamstrings,Machine,none
+Natural Glute Ham Raise,Strength,Hamstrings,Body Only,none
+Standing leg swing,Stretching,Hamstrings,Body Only,none
+Inchworm,Stretching,Hamstrings,Body Only,none
+90/90 Hamstring,Stretching,Hamstrings,Body Only,none
+Knee To Chest,Stretching,Hamstrings,Body Only,none
+Hip Stretch With Twist,Stretching,Hamstrings,Body Only,none
+Alternating Leg Swing,Stretching,Hamstrings,Body Only,none
+Single-leg balance and reach,Stretching,Hamstrings,Body Only,none
+High Kick,Stretching,Hamstrings,Body Only,none
+Glute ham raise-,Strength,Hamstrings,none,none
+Lying hamstring stretch with band,Stretching,Hamstrings,none,none
+Upper Back-Leg Grab,Stretching,Hamstrings,none,none
+Seated Hamstring,Stretching,Hamstrings,none,none
+Alternating lunge jump,Stretching,Hamstrings,none,none
+Assisted Chin-Up,Strength,Lats,Bands,none
+Barbell pull-over to press,Strength,Lats,Barbell,none
+Rocky Pull-Ups/Pulldowns,Strength,Lats,Other,none
+Gironda Sternum Chins,Strength,Lats,Other,none
+Floor rope climb,Strength,Lats,Other,none
+Overhead Lat,Stretching,Lats,Other,none
+Around-the-world pull-up,Strength,Lats,Other,none
+L-sit chin-up,Strength,Lats,Other,none
+Single-arm kneeling lat pull-down,Strength,Lats,Cable,none
+Elevated Cable Rows,Strength,Lats,Cable,none
+Full Range-Of-Motion Lat Pulldown,Strength,Lats,Cable,none
+Machine seated row,Strength,Lats,Machine,none
+Machine-assisted pull-up,Strength,Lats,Machine,none
+Pull-up,Strength,Lats,Body Only,none
+Wide-Grip Rear Pull-Up,Strength,Lats,Body Only,none
+Catch and Overhead Throw,Plyometrics,Lats,Medicine Ball,none
+Dynamic Back Stretch,Stretching,Lats,none,none
+Chair Lower Back Stretch,Stretching,Lats,none,none
+Side-Lying Floor Stretch,Stretching,Lats,none,none
+Barbell deficit deadlift,Powerlifting,Lower Back,Barbell,none
+Deadlift with Bands,Powerlifting,Lower Back,Barbell,none
+Deadlift with Chains,Powerlifting,Lower Back,Barbell,none
+Rack Pull with Bands,Powerlifting,Lower Back,Barbell,none
+Seated Good Mornings,Powerlifting,Lower Back,Barbell,none
+Stiff Leg Barbell Good Morning,Strength,Lower Back,Barbell,none
+Reverse Band Deadlift,Powerlifting,Lower Back,Barbell,none
+Axle Deadlift,Strongman,Lower Back,Other,none
+Atlas Stone Trainer,Strongman,Lower Back,Other,none
+Partner Flat-Bench Back Extension,Strength,Lower Back,Other,none
+Keg Load,Strongman,Lower Back,Other,none
+Partner bench back extension,Strength,Lower Back,Other,none
+Seated Back Extension,Strength,Lower Back,Machine,none
+Hyperextensions With No Hyperextension Bench,Strength,Lower Back,Body Only,none
+Partner Superman with alternating high-five,Strength,Lower Back,Body Only,none
+Dancer's Stretch,Stretching,Lower Back,none,none
+Cat Stretch,Stretching,Lower Back,none,none
+Crossover Reverse Lunge,Stretching,Lower Back,none,none
+Standing Pelvic Tilt,Stretching,Lower Back,none,none
+Exercise ball weighted hyperextension,Strength,Lower Back,Exercise Ball,none
+Partner Facing Feet-Elevated Side Plank With Band Row,Strength,Middle Back,Bands,none
+Yates Row Reverse Grip,Strength,Middle Back,Barbell,none
+Straight Bar Bench Mid Rows,Strength,Middle Back,Barbell,none
+Yates Row,Strength,Middle Back,Barbell,none
+Plate Row,Strength,Middle Back,Barbell,none
+Barbell Deadlift Bent Row Complex,Strength,Middle Back,Barbell,none
+Single-Arm Landmine Row,Strength,Middle Back,Barbell,none
+Two-Arm Kettlebell Row,Strength,Middle Back,Kettlebells,none
+Bent Over Two-Dumbbell Row With Palms In,Strength,Middle Back,Dumbbell,none
+Middle Back Shrug,Strength,Middle Back,Dumbbell,none
+Inverted Row with Straps,Strength,Middle Back,Other,none
+One Arm Chin-Up,Strength,Middle Back,Other,none
+Sled Row,Strength,Middle Back,Other,none
+Leverage High Row,Strength,Middle Back,Machine,none
+Upright Row - With Bands,Strength,Traps,Bands,none
+Clean Shrug,Olympic Weightlifting,Traps,Barbell,none
+Snatch Shrug,Olympic Weightlifting,Traps,Barbell,none
+Lying Face Down Plate Neck Resistance,Strength,Neck,Other,none
+Lying Face Up Plate Neck Resistance,Strength,Neck,Other,none
+Seated Head Harness Neck Resistance,Strength,Neck,Other,none
+Calf-Machine Shoulder Shrug,Strength,Traps,Machine,none
+Isometric Neck Exercise - Sides,Strength,Neck,Body Only,none
+Isometric Neck Exercise - Front And Back,Strength,Neck,Body Only,none
+Neck Bridge Prone,Strength,Neck,Body Only,none
+Scapular Pull-Up,Strength,Traps,none,none
+Squats - With Bands,Strength,Quadriceps,Bands,none
+Hip Flexion with Band,Strength,Quadriceps,Bands,none
+Forward Band Walk,Strength,Quadriceps,Bands,none
+Clean from Blocks,Olympic Weightlifting,Quadriceps,Barbell,none
+Hang Clean,Olympic Weightlifting,Quadriceps,Barbell,none
+Olympic Squat,Olympic Weightlifting,Quadriceps,Barbell,none
+Box Squat with Bands,Powerlifting,Quadriceps,Barbell,none
+Weighted Jump Squat,Strength,Quadriceps,Barbell,none
+Squat with Chains,Powerlifting,Quadriceps,Barbell,none
+Hang Clean - Below the Knees,Olympic Weightlifting,Quadriceps,Barbell,none
+Split Jerk,Olympic Weightlifting,Quadriceps,Barbell,none
+Jefferson Squats,Strength,Quadriceps,Barbell,none
+Jerk Dip Squat,Olympic Weightlifting,Quadriceps,Barbell,none
+Frankenstein Squat,Olympic Weightlifting,Quadriceps,Barbell,none
+Clean Pull,Olympic Weightlifting,Quadriceps,Barbell,none
+Front Barbell Squat To A Bench,Strength,Quadriceps,Barbell,none
+Split Clean,Olympic Weightlifting,Quadriceps,Barbell,none
+Front Squat (Clean Grip),Strength,Quadriceps,Barbell,none
+Squat Jerk,Strength,Quadriceps,Barbell,none
+Box Squat with Chains,Strength,Quadriceps,Barbell,none
+Snatch from Blocks,Olympic Weightlifting,Quadriceps,Barbell,none
+Power Snatch from Blocks,Olympic Weightlifting,Quadriceps,Barbell,none
+Squat with Bands,Powerlifting,Quadriceps,Barbell,none
+Heaving Snatch Balance,Olympic Weightlifting,Quadriceps,Barbell,none
+Snatch Balance,Olympic Weightlifting,Quadriceps,Barbell,none
+Reverse Band Power Squat,Powerlifting,Quadriceps,Barbell,none
+Front Squats With Two Kettlebells,Strength,Quadriceps,Kettlebells,none
+Kettlebell Pistol Squat,Strength,Quadriceps,Kettlebells,none
+Kettlebell Curtsy Lunge,Strength,Quadriceps,Kettlebells,none
+Dumbbell Squat To A Bench,Strength,Quadriceps,Dumbbell,none
+Single-Arm Dumbbell Overhead Squat,Strength,Quadriceps,Dumbbell,none
+Dumbbell Pistol Squat,Strength,Quadriceps,Dumbbell,none
+Dumbbell Squat Snatch,Strength,Quadriceps,Dumbbell,none
+Dumbbell Alternating Lunge,Strength,Quadriceps,Dumbbell,none
+Dumbbell Side Lunge,Strength,Quadriceps,Dumbbell,none
+Single Leg Push-off,Plyometrics,Quadriceps,Other,none
+Skating,Cardio,Quadriceps,Other,none
+Yoke Walk,Strongman,Quadriceps,Other,none
+Front Cone Hops (or hurdle hops),Plyometrics,Quadriceps,Other,none
+Weighted Squat,Strength,Quadriceps,Other,none
+Backward Drag,Strongman,Quadriceps,Other,none
+Intermediate Hip Flexor and Quad Stretch,Stretching,Quadriceps,Other,none
+Single-Leg Box Jump,Plyometrics,Quadriceps,Other,none
+Conan's Wheel,Strongman,Quadriceps,Other,none
+Single-Leg Hop Progression,Plyometrics,Quadriceps,Other,none
+Rickshaw Deadlift,Strongman,Quadriceps,Other,none
+Single-Leg Stride Jump,Plyometrics,Quadriceps,Other,none
+Trap Bar Jump,Plyometrics,Quadriceps,Other,none
+Single-Leg Lateral Hop,Plyometrics,Quadriceps,Other,none
+Sandbag Load,Strongman,Quadriceps,Other,none
+Car Deadlift,Strongman,Quadriceps,Other,none
+Barbell Squat To A Box,Strength,Quadriceps,Other,none
+Double Under,Cardio,Quadriceps,Other,none
+Cable Hip Adduction,Strength,Quadriceps,Cable,none
+Cable Deadlifts,Strength,Quadriceps,Cable,none
+Narrow Stance Hack Squats,Strength,Quadriceps,Machine,none
+Recumbent Bike,Cardio,Quadriceps,Machine,none
+Leverage Deadlift,Strength,Quadriceps,Machine,none
+Alien Squat,Plyometrics,Quadriceps,Body Only,none
+Rocket Jump,Plyometrics,Quadriceps,Body Only,none
+All Fours Quad Stretch,Stretching,Quadriceps,Body Only,none
+Rear Leg Raises,Stretching,Quadriceps,Body Only,none
+Slide Jump Shot,Plyometrics,Quadriceps,Body Only,none
+Star Jump,Plyometrics,Quadriceps,Body Only,none
+Lying Prone Quadriceps,Stretching,Quadriceps,Body Only,none
+Fast Kick With Arm Circles,Cardio,Quadriceps,Body Only,none
+Defensive Slide,Cardio,Quadriceps,Body Only,none
+Vertical Mountain Climber,Cardio,Quadriceps,Body Only,none
+Reverse Burpee,Plyometrics,Quadriceps,Body Only,none
+Football Up-Down,Cardio,Quadriceps,Body Only,none
+Slow Jog,Cardio,Quadriceps,Body Only,none
+Square Hop,Plyometrics,Quadriceps,Body Only,none
+Alternate Leg Diagonal Bound,Plyometrics,Quadriceps,none,none
+Sit Squats,Stretching,Quadriceps,none,none
+Frog Hops,Stretching,Quadriceps,none,none
+Bosu Ball Squat,Strength,Quadriceps,Exercise Ball,none
+Internal Rotation with Band,Strength,Shoulders,Bands,none
+Back Flyes - With Bands,Strength,Shoulders,Bands,none
+Lateral Raise - With Bands,Strength,Shoulders,Bands,none
+Shoulder Press - With Bands,Strength,Shoulders,Bands,none
+External Rotation with Band,Strength,Shoulders,Bands,none
+Snatch-Grip Behind-The-Neck Overhead Press,Strength,Shoulders,Barbell,none
+Bradford/Rocky Presses,Strength,Shoulders,Barbell,none
+Rack Delivery,Olympic Weightlifting,Shoulders,Barbell,none
+Smith Incline Shoulder Raise,Strength,Shoulders,Barbell,none
+Tall Muscle Snatch,Olympic Weightlifting,Shoulders,Barbell,none
+Axle Clean And Press,Strongman,Shoulders,Barbell,none
+Jerk Balance,Olympic Weightlifting,Shoulders,Barbell,none
+Two-Arm Kettlebell Military Press,Strength,Shoulders,Kettlebells,none
+Alternating Kettlebell Press,Strength,Shoulders,Kettlebells,none
+Two-Arm Kettlebell Clean,Strength,Shoulders,Kettlebells,none
+Kettlebell Seated Press,Strength,Shoulders,Kettlebells,none
+Double Kettlebell Jerk,Strength,Shoulders,Kettlebells,none
+Kettlebell Arnold Press,Strength,Shoulders,Kettlebells,none
+One-Arm Kettlebell Split Snatch,Strength,Shoulders,Kettlebells,none
+One-Arm Kettlebell Para Press,Strength,Shoulders,Kettlebells,none
+One-Arm Kettlebell Split Jerk,Strength,Shoulders,Kettlebells,none
+One-Arm Kettlebell Military Press To The Side,Strength,Shoulders,Kettlebells,none
+One-Arm Kettlebell Jerk,Strength,Shoulders,Kettlebells,none
+Double Kettlebell Snatch,Strength,Shoulders,Kettlebells,none
+Two-Arm Kettlebell Jerk,Strength,Shoulders,Kettlebells,none
+Power Partials,Strength,Shoulders,Dumbbell,none
+Dumbbell Raise,Strength,Shoulders,Dumbbell,none
+Reverse Flyes With External Rotation,Strength,Shoulders,Dumbbell,none
+Dumbbell Scaption,Strength,Shoulders,Dumbbell,none
+See-Saw Press (Alternating Side Press),Strength,Shoulders,Dumbbell,none
+Dumbbell Incline Shoulder Raise,Strength,Shoulders,Dumbbell,none
+Dumbbell Clean And Jerk,Strength,Shoulders,Dumbbell,none
+Circus Bell,Strongman,Shoulders,Other,none
+Crucifix,Strongman,Shoulders,Other,none
+Bar shoulder extension stretch,Stretching,Shoulders,Other,none
+Chair Upper Body Stretch,Stretching,Shoulders,Other,none
+Sled Overhead Backward Walk,Strength,Shoulders,Other,none
+Log Lift,Strongman,Shoulders,Other,none
+Cable Internal Rotation,Strength,Shoulders,Cable,none
+Cable Shoulder Press,Strength,Shoulders,Cable,none
+Alternating Cable Shoulder Press,Strength,Shoulders,Cable,none
+Seated Front Deltoid,Stretching,Shoulders,Body Only,none
+Backward Medicine Ball Throw,Plyometrics,Shoulders,Medicine Ball,none
+Standing Two-Arm Overhead Throw,Plyometrics,Shoulders,Medicine Ball,none
+Side Wrist Pull,Stretching,Shoulders,none,none
+Elbow Circles,Stretching,Shoulders,none,none
+Kneeling Arm Drill,Plyometrics,Shoulders,none,none
+Decline Close-Grip Bench To Skull Crusher,Strength,Triceps,Barbell,none
+Bench Press with Chains,Powerlifting,Triceps,Barbell,none
+Floor Press,Powerlifting,Triceps,Barbell,none
+One Arm Floor Press,Strength,Triceps,Barbell,none
+Pin Presses,Powerlifting,Triceps,Barbell,none
+JM Press With Bands,Strength,Triceps,Barbell,none
+JM Press,Strength,Triceps,Barbell,none
+Floor Press with Chains,Powerlifting,Triceps,Barbell,none
+Reverse Band Bench Press,Powerlifting,Triceps,Barbell,none
+Decline Dumbbell Triceps Extension,Strength,Triceps,Dumbbell,none
+One Arm Pronated Dumbbell Triceps Extension,Strength,Triceps,Dumbbell,none
+One Arm Supinated Dumbbell Triceps Extension,Strength,Triceps,Dumbbell,none
+Seated Bent-Over Two-Arm Dumbbell Triceps Extension,Strength,Triceps,Dumbbell,none
+Tate Press,Strength,Triceps,Dumbbell,none
+Seated Bent-Over One-Arm Dumbbell Triceps Extension,Strength,Triceps,Dumbbell,none
+Dumbbell Tricep Extension -Pronated Grip,Strength,Triceps,Dumbbell,none
+Chain Handle Extension,Powerlifting,Triceps,Other,none
+Sled Overhead Triceps Extension,Strength,Triceps,Other,none
+Suspended Triceps Press,Strength,Triceps,Other,none
+Low Cable Triceps Extension,Strength,Triceps,Cable,none
+Standing Towel Triceps Extension,Strength,Triceps,Body Only,none
+Overhead Triceps,Stretching,Triceps,Body Only,none
+Supine Chest Throw,Plyometrics,Triceps,Medicine Ball,none
+Lying Close-Grip Barbell Triceps Press To Chin,Strength,Triceps,E-Z Curl Bar,none
+3/4 sit-up,none,waist,body weight,abs
+45ÃÂ° side bend,none,waist,body weight,abs
+air bike,none,waist,body weight,abs
+all fours squad stretch,none,upper legs,body weight,quads
+alternate heel touchers,none,waist,body weight,abs
+alternate lateral pulldown,none,back,cable,lats
+ankle circles,none,lower legs,body weight,calves
+archer pull up,none,back,body weight,lats
+archer push up,none,chest,body weight,pectorals
+arm slingers hanging bent knee legs,none,waist,body weight,abs
+arm slingers hanging straight legs,none,waist,body weight,abs
+arms apart circular toe touch (male),none,upper legs,body weight,glutes
+arms overhead full sit-up (male),none,waist,body weight,abs
+assisted chest dip (kneeling),none,chest,leverage machine,pectorals
+assisted hanging knee raise,none,waist,assisted,abs
+assisted hanging knee raise with throw down,none,waist,assisted,abs
+assisted lying calves stretch,none,lower legs,assisted,calves
+assisted lying glutes stretch,none,upper legs,assisted,glutes
+assisted lying gluteus and piriformis stretch,none,upper legs,assisted,glutes
+assisted lying leg raise with lateral throw down,none,waist,assisted,abs
+assisted lying leg raise with throw down,none,waist,assisted,abs
+assisted motion russian twist,none,waist,medicine ball,abs
+assisted parallel close grip pull-up,none,back,leverage machine,lats
+assisted prone hamstring,none,upper legs,assisted,hamstrings
+assisted prone lying quads stretch,none,upper legs,assisted,quads
+assisted prone rectus femoris stretch,none,waist,assisted,abs
+assisted pull-up,none,back,leverage machine,lats
+assisted seated pectoralis major stretch with stability ball,none,chest,assisted,pectorals
+assisted side lying adductor stretch,none,upper legs,assisted,adductors
+assisted sit-up,none,waist,assisted,abs
+assisted standing chin-up,none,back,leverage machine,lats
+assisted standing pull-up,none,back,leverage machine,lats
+assisted standing triceps extension (with towel),none,upper arms,assisted,triceps
+assisted triceps dip (kneeling),none,upper arms,leverage machine,triceps
+assisted wide-grip chest dip (kneeling),none,chest,leverage machine,pectorals
+astride jumps (male),none,cardio,body weight,cardiovascular system
+back and forth step,none,cardio,body weight,cardiovascular system
+back extension on exercise ball,none,back,stability ball,spine
+back lever,none,back,body weight,upper back
+back pec stretch,none,back,body weight,lats
+backward jump,none,upper legs,body weight,quads
+balance board,none,upper legs,body weight,quads
+band alternating biceps curl,none,upper arms,band,biceps
+band alternating v-up,none,waist,band,abs
+band assisted pull-up,none,back,band,lats
+band assisted wheel rollerout,none,waist,band,abs
+band bench press,none,chest,band,pectorals
+band bent-over hip extension,none,upper legs,band,glutes
+band bicycle crunch,none,waist,band,abs
+band close-grip pulldown,none,back,band,lats
+band close-grip push-up,none,upper arms,band,triceps
+band concentration curl,none,upper arms,band,biceps
+band fixed back close grip pulldown,none,back,band,lats
+band fixed back underhand pulldown,none,back,band,lats
+band front lateral raise,none,shoulders,band,delts
+band front raise,none,shoulders,band,delts
+band hip lift,none,upper legs,band,glutes
+band horizontal pallof press,none,waist,band,abs
+band jack knife sit-up,none,waist,band,abs
+band kneeling one arm pulldown,none,back,band,lats
+band kneeling twisting crunch,none,waist,band,abs
+band lying hip internal rotation,none,upper legs,band,glutes
+band lying straight leg raise,none,waist,band,abs
+band one arm overhead biceps curl,none,upper arms,band,biceps
+band one arm single leg split squat,none,upper legs,band,quads
+band one arm standing low row,none,back,band,upper back
+band one arm twisting chest press,none,chest,band,pectorals
+band one arm twisting seated row,none,back,band,upper back
+band pull through,none,upper legs,band,glutes
+band push sit-up,none,waist,band,abs
+band reverse fly,none,shoulders,band,delts
+band reverse wrist curl,none,lower arms,band,forearms
+band seated hip internal rotation,none,upper legs,band,glutes
+band seated twist,none,waist,band,abs
+band shoulder press,none,shoulders,band,delts
+band shrug,none,back,band,traps
+band side triceps extension,none,upper arms,band,triceps
+band single leg calf raise,none,lower legs,band,calves
+band single leg reverse calf raise,none,lower legs,band,calves
+band single leg split squat,none,upper legs,band,quads
+band squat,none,upper legs,band,glutes
+band squat row,none,upper legs,band,glutes
+band standing crunch,none,waist,band,abs
+band standing rear delt row,none,shoulders,band,delts
+band standing twisting crunch,none,waist,band,abs
+band step-up,none,upper legs,band,glutes
+band stiff leg deadlift,none,upper legs,band,glutes
+band straight back stiff leg deadlift,none,upper legs,band,glutes
+band straight leg deadlift,none,back,band,spine
+band twisting overhead press,none,shoulders,band,delts
+band two legs calf raise - (band under both legs) v. 2,none,lower legs,band,calves
+band underhand pulldown,none,back,band,lats
+band v-up,none,waist,band,abs
+band vertical pallof press,none,waist,band,abs
+band wrist curl,none,lower arms,band,forearms
+band y-raise,none,shoulders,band,delts
+barbell alternate biceps curl,none,upper arms,barbell,biceps
+barbell bench front squat,none,upper legs,barbell,quads
+barbell bench press,none,chest,barbell,pectorals
+barbell bench squat,none,upper legs,barbell,quads
+barbell bent arm pullover,none,back,barbell,lats
+barbell bent over row,none,back,barbell,upper back
+barbell biceps curl (with arm blaster),none,upper arms,barbell,biceps
+barbell clean and press,none,upper legs,barbell,quads
+barbell clean-grip front squat,none,upper legs,barbell,glutes
+barbell close-grip bench press,none,upper arms,barbell,triceps
+barbell curl,none,upper arms,barbell,biceps
+barbell deadlift,none,upper legs,barbell,glutes
+barbell decline bench press,none,chest,barbell,pectorals
+barbell decline bent arm pullover,none,back,barbell,lats
+barbell decline close grip to skull press,none,upper arms,barbell,triceps
+barbell decline pullover,none,chest,barbell,pectorals
+barbell decline wide-grip press,none,chest,barbell,pectorals
+barbell decline wide-grip pullover,none,back,barbell,lats
+barbell drag curl,none,upper arms,barbell,biceps
+barbell floor calf raise,none,lower legs,barbell,calves
+barbell front chest squat,none,upper legs,barbell,glutes
+barbell front raise,none,shoulders,barbell,delts
+barbell front raise and pullover,none,chest,barbell,pectorals
+barbell front squat,none,upper legs,barbell,glutes
+barbell full squat,none,upper legs,barbell,glutes
+barbell full squat (back pov),none,upper legs,barbell,glutes
+barbell full squat (side pov),none,upper legs,barbell,glutes
+barbell full zercher squat,none,upper legs,barbell,glutes
+barbell glute bridge,none,upper legs,barbell,glutes
+barbell glute bridge two legs on bench (male),none,upper legs,barbell,glutes
+barbell good morning,none,upper legs,barbell,hamstrings
+barbell guillotine bench press,none,chest,barbell,pectorals
+barbell hack squat,none,upper legs,barbell,glutes
+barbell high bar squat,none,upper legs,barbell,glutes
+barbell incline bench press,none,chest,barbell,pectorals
+barbell incline close grip bench press,none,upper arms,barbell,triceps
+barbell incline reverse-grip press,none,upper arms,barbell,triceps
+barbell incline row,none,back,barbell,upper back
+barbell incline shoulder raise,none,chest,barbell,serratus anterior
+barbell jefferson squat,none,upper legs,barbell,glutes
+barbell jm bench press,none,upper arms,barbell,triceps
+barbell jump squat,none,upper legs,barbell,glutes
+barbell lateral lunge,none,upper legs,barbell,glutes
+barbell low bar squat,none,upper legs,barbell,glutes
+barbell lunge,none,upper legs,barbell,glutes
+barbell lying back of the head tricep extension,none,upper arms,barbell,triceps
+barbell lying close-grip press,none,upper arms,barbell,triceps
+barbell lying close-grip triceps extension,none,upper arms,barbell,triceps
+barbell lying extension,none,upper arms,barbell,triceps
+barbell lying lifting (on hip),none,upper legs,barbell,glutes
+barbell lying preacher curl,none,upper arms,barbell,biceps
+barbell lying triceps extension,none,upper arms,barbell,triceps
+barbell lying triceps extension skull crusher,none,upper arms,barbell,triceps
+barbell narrow stance squat,none,upper legs,barbell,glutes
+barbell one arm bent over row,none,back,barbell,upper back
+barbell one arm floor press,none,upper arms,barbell,triceps
+barbell one arm side deadlift,none,upper legs,barbell,glutes
+barbell one arm snatch,none,shoulders,barbell,delts
+barbell one leg squat,none,upper legs,barbell,quads
+barbell overhead squat,none,upper legs,barbell,quads
+barbell palms down wrist curl over a bench,none,lower arms,barbell,forearms
+barbell palms up wrist curl over a bench,none,lower arms,barbell,forearms
+barbell pendlay row,none,back,barbell,upper back
+barbell pin presses,none,upper arms,barbell,triceps
+barbell preacher curl,none,upper arms,barbell,biceps
+barbell press sit-up,none,waist,barbell,abs
+barbell prone incline curl,none,upper arms,barbell,biceps
+barbell pullover,none,back,barbell,lats
+barbell pullover to press,none,back,barbell,lats
+barbell rack pull,none,upper legs,barbell,glutes
+barbell rear delt raise,none,shoulders,barbell,delts
+barbell rear delt row,none,shoulders,barbell,delts
+barbell rear lunge,none,upper legs,barbell,glutes
+barbell rear lunge v. 2,none,upper legs,barbell,glutes
+barbell revers wrist curl v. 2,none,lower arms,barbell,forearms
+barbell reverse close-grip bench press,none,upper arms,barbell,triceps
+barbell reverse curl,none,upper arms,barbell,biceps
+barbell reverse grip bent over row,none,back,barbell,upper back
+barbell reverse grip decline bench press,none,chest,barbell,pectorals
+barbell reverse grip incline bench press,none,chest,barbell,pectorals
+barbell reverse grip incline bench row,none,back,barbell,upper back
+barbell reverse grip skullcrusher,none,upper arms,barbell,triceps
+barbell reverse preacher curl,none,upper arms,barbell,biceps
+barbell reverse wrist curl,none,lower arms,barbell,forearms
+barbell rollerout,none,waist,barbell,abs
+barbell rollerout from bench,none,waist,barbell,abs
+barbell romanian deadlift,none,upper legs,barbell,glutes
+barbell seated behind head military press,none,shoulders,barbell,delts
+barbell seated bradford rocky press,none,shoulders,barbell,delts
+barbell seated calf raise,none,lower legs,barbell,calves
+barbell seated calf raise,none,lower legs,barbell,calves
+barbell seated close grip behind neck triceps extension,none,upper arms,barbell,triceps
+barbell seated close-grip concentration curl,none,upper arms,barbell,biceps
+barbell seated good morning,none,upper legs,barbell,glutes
+barbell seated overhead press,none,shoulders,barbell,delts
+barbell seated overhead triceps extension,none,upper arms,barbell,triceps
+barbell seated twist,none,waist,barbell,abs
+barbell shrug,none,back,barbell,traps
+barbell side bent v. 2,none,waist,barbell,abs
+barbell side split squat,none,upper legs,barbell,quads
+barbell side split squat v. 2,none,upper legs,barbell,quads
+barbell single leg deadlift,none,upper legs,barbell,glutes
+barbell single leg split squat,none,upper legs,barbell,quads
+barbell sitted alternate leg raise,none,waist,barbell,abs
+barbell sitted alternate leg raise (female),none,waist,barbell,abs
+barbell skier,none,shoulders,barbell,delts
+barbell speed squat,none,upper legs,barbell,glutes
+barbell split squat v. 2,none,upper legs,barbell,quads
+barbell squat (on knees),none,upper legs,barbell,quads
+barbell squat jump step rear lunge,none,upper legs,barbell,quads
+barbell standing ab rollerout,none,waist,barbell,abs
+barbell standing back wrist curl,none,lower arms,barbell,forearms
+barbell standing bradford press,none,shoulders,barbell,delts
+barbell standing calf raise,none,lower legs,barbell,calves
+barbell standing close grip curl,none,upper arms,barbell,biceps
+barbell standing close grip military press,none,shoulders,barbell,delts
+barbell standing concentration curl,none,upper arms,barbell,biceps
+barbell standing front raise over head,none,shoulders,barbell,delts
+barbell standing leg calf raise,none,lower legs,barbell,calves
+barbell standing overhead triceps extension,none,upper arms,barbell,triceps
+barbell standing reverse grip curl,none,upper arms,barbell,biceps
+barbell standing rocking leg calf raise,none,lower legs,barbell,calves
+barbell standing twist,none,waist,barbell,abs
+barbell standing wide grip biceps curl,none,upper arms,barbell,biceps
+barbell standing wide military press,none,shoulders,barbell,delts
+barbell standing wide-grip curl,none,upper arms,barbell,biceps
+barbell step-up,none,upper legs,barbell,glutes
+barbell stiff leg good morning,none,upper legs,barbell,glutes
+barbell straight leg deadlift,none,upper legs,barbell,hamstrings
+barbell sumo deadlift,none,upper legs,barbell,glutes
+barbell thruster,none,shoulders,barbell,delts
+barbell upright row,none,shoulders,barbell,delts
+barbell upright row v. 2,none,shoulders,barbell,delts
+barbell upright row v. 3,none,shoulders,barbell,delts
+barbell wide bench press,none,chest,barbell,pectorals
+barbell wide reverse grip bench press,none,chest,barbell,pectorals
+barbell wide squat,none,upper legs,barbell,quads
+barbell wide-grip upright row,none,shoulders,barbell,delts
+barbell wrist curl,none,lower arms,barbell,forearms
+barbell wrist curl v. 2,none,lower arms,barbell,forearms
+barbell zercher squat,none,upper legs,barbell,glutes
+basic toe touch (male),none,upper legs,body weight,glutes
+battling ropes,none,shoulders,rope,delts
+bear crawl,none,cardio,body weight,cardiovascular system
+behind head chest stretch,none,chest,assisted,pectorals
+bench dip (knees bent),none,upper arms,body weight,triceps
+bench dip on floor,none,upper arms,body weight,triceps
+bench hip extension,none,upper legs,body weight,glutes
+bench pull-ups,none,back,body weight,lats
+bent knee lying twist (male),none,upper legs,body weight,glutes
+biceps leg concentration curl,none,upper arms,body weight,biceps
+biceps narrow pull-ups,none,upper arms,body weight,biceps
+biceps pull-up,none,upper arms,body weight,biceps
+body-up,none,upper arms,body weight,triceps
+bodyweight drop jump squat,none,upper legs,body weight,glutes
+bodyweight incline side plank,none,waist,body weight,abs
+bodyweight kneeling triceps extension,none,upper arms,body weight,triceps
+bodyweight side lying biceps curl,none,upper arms,body weight,biceps
+bodyweight squatting row,none,back,body weight,upper back
+bodyweight squatting row (with towel),none,back,body weight,upper back
+bodyweight standing calf raise,none,lower legs,body weight,calves
+bodyweight standing close-grip one arm row,none,back,body weight,upper back
+bodyweight standing close-grip row,none,back,body weight,upper back
+bodyweight standing one arm row,none,back,body weight,upper back
+bodyweight standing one arm row (with towel),none,back,body weight,upper back
+bodyweight standing row,none,back,body weight,upper back
+bodyweight standing row (with towel),none,back,body weight,upper back
+bottoms-up,none,waist,body weight,abs
+box jump down with one leg stabilization,none,lower legs,body weight,calves
+bridge - mountain climber (cross body),none,waist,body weight,abs
+burpee,none,cardio,body weight,cardiovascular system
+butt-ups,none,waist,body weight,abs
+butterfly yoga pose,none,upper legs,body weight,adductors
+cable alternate shoulder press,none,shoulders,cable,delts
+cable alternate triceps extension,none,upper arms,cable,triceps
+cable assisted inverse leg curl,none,upper legs,cable,hamstrings
+cable bar lateral pulldown,none,back,cable,lats
+cable bench press,none,chest,cable,pectorals
+cable close grip curl,none,upper arms,cable,biceps
+cable concentration curl,none,upper arms,cable,biceps
+cable concentration extension (on knee),none,upper arms,cable,triceps
+cable cross-over lateral pulldown,none,back,cable,lats
+cable cross-over revers fly,none,shoulders,cable,delts
+cable cross-over variation,none,chest,cable,pectorals
+cable curl,none,upper arms,cable,biceps
+cable deadlift,none,upper legs,cable,glutes
+cable decline fly,none,chest,cable,pectorals
+cable decline one arm press,none,chest,cable,pectorals
+cable decline press,none,chest,cable,pectorals
+cable decline seated wide-grip row,none,back,cable,upper back
+cable drag curl,none,upper arms,cable,biceps
+cable floor seated wide-grip row,none,back,cable,upper back
+cable forward raise,none,shoulders,cable,delts
+cable front raise,none,shoulders,cable,delts
+cable front shoulder raise,none,shoulders,cable,delts
+cable hammer curl (with rope),none,upper arms,cable,biceps
+cable high pulley overhead tricep extension,none,upper arms,cable,triceps
+cable high row (kneeling),none,back,cable,upper back
+cable hip adduction,none,upper legs,cable,adductors
+cable incline bench press,none,chest,cable,pectorals
+cable incline bench row,none,back,cable,upper back
+cable incline fly,none,chest,cable,pectorals
+cable incline fly (on stability ball),none,chest,cable,pectorals
+cable incline pushdown,none,back,cable,lats
+cable incline triceps extension,none,upper arms,cable,triceps
+cable judo flip,none,waist,cable,abs
+cable kickback,none,upper arms,cable,triceps
+cable kneeling crunch,none,waist,cable,abs
+cable kneeling rear delt row (with rope) (male),none,shoulders,cable,delts
+cable kneeling triceps extension,none,upper arms,cable,triceps
+cable lat pulldown full range of motion,none,back,cable,lats
+cable lateral pulldown (with rope attachment),none,back,cable,lats
+cable lateral pulldown with v-bar,none,back,cable,lats
+cable lateral raise,none,shoulders,cable,delts
+cable low fly,none,chest,cable,pectorals
+cable low seated row,none,back,cable,upper back
+cable lying bicep curl,none,upper arms,cable,biceps
+cable lying close-grip curl,none,upper arms,cable,biceps
+cable lying extension pullover (with rope attachment),none,back,cable,lats
+cable lying fly,none,chest,cable,pectorals
+cable lying triceps extension v. 2,none,upper arms,cable,triceps
+cable middle fly,none,chest,cable,pectorals
+cable one arm bent over row,none,back,cable,upper back
+cable one arm curl,none,upper arms,cable,biceps
+cable one arm decline chest fly,none,chest,cable,pectorals
+cable one arm fly on exercise ball,none,chest,cable,pectorals
+cable one arm incline fly on exercise ball,none,chest,cable,pectorals
+cable one arm incline press,none,chest,cable,pectorals
+cable one arm incline press on exercise ball,none,chest,cable,pectorals
+cable one arm lateral bent-over,none,chest,cable,pectorals
+cable one arm lateral raise,none,shoulders,cable,delts
+cable one arm preacher curl,none,upper arms,cable,biceps
+cable one arm press on exercise ball,none,chest,cable,pectorals
+cable one arm pulldown,none,back,cable,lats
+cable one arm reverse preacher curl,none,upper arms,cable,biceps
+cable one arm straight back high row (kneeling),none,back,cable,upper back
+cable one arm tricep pushdown,none,upper arms,cable,triceps
+cable overhead curl,none,upper arms,cable,biceps
+cable overhead curl on exercise ball,none,upper arms,cable,biceps
+cable overhead triceps extension (rope attachment),none,upper arms,cable,triceps
+cable palm rotational row,none,back,cable,upper back
+cable preacher curl,none,upper arms,cable,biceps
+cable press on exercise ball,none,chest,cable,pectorals
+cable pull through (with rope),none,upper legs,cable,glutes
+cable pulldown,none,back,cable,lats
+cable pulldown (pro lat bar),none,back,cable,lats
+cable pulldown bicep curl,none,upper arms,cable,biceps
+cable pushdown,none,upper arms,cable,triceps
+cable pushdown (straight arm) v. 2,none,back,cable,lats
+cable pushdown (with rope attachment),none,upper arms,cable,triceps
+cable rear delt row (stirrups),none,shoulders,cable,delts
+cable rear delt row (with rope),none,shoulders,cable,delts
+cable rear drive,none,upper arms,cable,triceps
+cable rear pulldown,none,back,cable,lats
+cable reverse crunch,none,waist,cable,abs
+cable reverse curl,none,upper arms,cable,biceps
+cable reverse grip triceps pushdown (sz-bar) (with arm blaster),none,upper arms,cable,triceps
+cable reverse one arm curl,none,upper arms,cable,biceps
+cable reverse preacher curl,none,upper arms,cable,biceps
+cable reverse wrist curl,none,lower arms,cable,forearms
+cable reverse-grip pushdown,none,upper arms,cable,triceps
+cable reverse-grip straight back seated high row,none,back,cable,upper back
+cable rope crossover seated row,none,back,cable,upper back
+cable rope elevated seated row,none,back,cable,upper back
+cable rope extension incline bench row,none,back,cable,upper back
+cable rope hammer preacher curl,none,upper arms,cable,biceps
+cable rope high pulley overhead tricep extension,none,upper arms,cable,triceps
+cable rope incline tricep extension,none,upper arms,cable,triceps
+cable rope lying on floor tricep extension,none,upper arms,cable,triceps
+cable rope one arm hammer preacher curl,none,upper arms,cable,biceps
+cable rope seated row,none,back,cable,upper back
+cable russian twists (on stability ball),none,waist,cable,abs
+cable seated chest press,none,chest,cable,pectorals
+cable seated crunch,none,waist,cable,abs
+cable seated curl,none,upper arms,cable,biceps
+cable seated high row (v-bar),none,back,cable,lats
+cable seated one arm alternate row,none,back,cable,upper back
+cable seated one arm concentration curl,none,upper arms,cable,biceps
+cable seated overhead curl,none,upper arms,cable,biceps
+cable seated rear lateral raise,none,shoulders,cable,delts
+cable seated row,none,back,cable,upper back
+cable seated shoulder internal rotation,none,shoulders,cable,delts
+cable seated twist,none,waist,cable,abs
+cable seated wide-grip row,none,back,cable,upper back
+cable shoulder press,none,shoulders,cable,delts
+cable shrug,none,back,cable,traps
+cable side bend,none,waist,cable,abs
+cable side bend crunch (bosu ball),none,waist,cable,abs
+cable side crunch,none,waist,cable,abs
+cable squat row (with rope attachment),none,back,cable,lats
+cable squatting curl,none,upper arms,cable,biceps
+cable standing back wrist curl,none,lower arms,cable,forearms
+cable standing calf raise,none,lower legs,cable,calves
+cable standing cross-over high reverse fly,none,shoulders,cable,delts
+cable standing crunch,none,waist,cable,abs
+cable standing crunch (with rope attachment),none,waist,cable,abs
+cable standing fly,none,chest,cable,pectorals
+cable standing hip extension,none,upper legs,cable,glutes
+cable standing inner curl,none,upper arms,cable,biceps
+cable standing lift,none,waist,cable,abs
+cable standing one arm triceps extension,none,upper arms,cable,triceps
+cable standing one leg calf raise,none,lower legs,cable,calves
+cable standing pulldown (with rope),none,upper arms,cable,biceps
+cable standing rear delt row (with rope),none,shoulders,cable,delts
+cable standing reverse grip one arm overhead tricep extension,none,upper arms,cable,triceps
+cable standing row (v-bar),none,back,cable,upper back
+cable standing shoulder external rotation,none,shoulders,cable,delts
+cable standing twist row (v-bar),none,back,cable,upper back
+cable standing up straight crossovers,none,chest,cable,pectorals
+cable straight arm pulldown,none,back,cable,lats
+cable straight arm pulldown (with rope),none,back,cable,lats
+cable straight back seated row,none,back,cable,upper back
+cable supine reverse fly,none,shoulders,cable,delts
+cable thibaudeau kayak row,none,back,cable,lats
+cable triceps pushdown (v-bar),none,upper arms,cable,triceps
+cable triceps pushdown (v-bar) (with arm blaster),none,upper arms,cable,triceps
+cable tuck reverse crunch,none,waist,cable,abs
+cable twist,none,waist,cable,abs
+cable twist (up-down),none,waist,cable,abs
+cable twisting pull,none,back,cable,lats
+cable two arm curl on incline bench,none,upper arms,cable,biceps
+cable two arm tricep kickback,none,upper arms,cable,triceps
+cable underhand pulldown,none,back,cable,lats
+cable upper chest crossovers,none,chest,cable,pectorals
+cable upper row,none,back,cable,upper back
+cable upright row,none,shoulders,cable,delts
+cable wide grip rear pulldown behind neck,none,back,cable,lats
+cable wrist curl,none,lower arms,cable,forearms
+calf push stretch with hands against wall,none,lower legs,body weight,calves
+calf stretch with hands against wall,none,lower legs,body weight,calves
+calf stretch with rope,none,lower legs,rope,calves
+cambered bar lying row,none,back,barbell,upper back
+captains chair straight leg raise,none,waist,body weight,abs
+chair leg extended stretch,none,upper legs,body weight,quads
+chest and front of shoulder stretch,none,chest,body weight,pectorals
+chest dip,none,chest,body weight,pectorals
+chest dip (on dip-pull-up cage),none,chest,body weight,pectorals
+chest dip on straight bar,none,chest,body weight,pectorals
+chest stretch with exercise ball,none,chest,stability ball,pectorals
+chest tap push-up (male),none,chest,body weight,pectorals
+chin-up,none,back,body weight,lats
+chin-ups (narrow parallel grip),none,back,body weight,upper back
+circles knee stretch,none,lower legs,body weight,calves
+clap push up,none,chest,body weight,pectorals
+clock push-up,none,chest,body weight,pectorals
+close grip chin-up,none,back,body weight,lats
+close-grip push-up,none,upper arms,body weight,triceps
+close-grip push-up (on knees),none,upper arms,body weight,triceps
+cocoons,none,waist,body weight,abs
+crab twist toe touch,none,waist,body weight,abs
+cross body crunch,none,waist,body weight,abs
+crunch (hands overhead),none,waist,body weight,abs
+crunch (on stability ball),none,waist,stability ball,abs
+"crunch (on stability ball, arms straight)",none,waist,stability ball,abs
+crunch floor,none,waist,body weight,abs
+curl-up,none,waist,body weight,abs
+curtsey squat,none,upper legs,body weight,glutes
+cycle cross trainer,none,cardio,leverage machine,cardiovascular system
+dead bug,none,waist,body weight,abs
+decline crunch,none,waist,body weight,abs
+decline push-up,none,chest,body weight,pectorals
+decline sit-up,none,waist,body weight,abs
+deep push up,none,chest,dumbbell,pectorals
+diamond push-up,none,upper arms,body weight,triceps
+donkey calf raise,none,lower legs,body weight,calves
+drop push up,none,chest,body weight,pectorals
+dumbbell alternate biceps curl,none,upper arms,dumbbell,biceps
+dumbbell alternate biceps curl (with arm blaster),none,upper arms,dumbbell,biceps
+dumbbell alternate hammer preacher curl,none,upper arms,dumbbell,biceps
+dumbbell alternate preacher curl,none,upper arms,dumbbell,biceps
+dumbbell alternate seated hammer curl,none,upper arms,dumbbell,biceps
+dumbbell alternate side press,none,shoulders,dumbbell,delts
+dumbbell alternating bicep curl with leg raised on exercise ball,none,upper arms,dumbbell,biceps
+dumbbell alternating seated bicep curl on exercise ball,none,upper arms,dumbbell,biceps
+dumbbell arnold press,none,shoulders,dumbbell,delts
+dumbbell arnold press v. 2,none,shoulders,dumbbell,delts
+dumbbell around pullover,none,chest,dumbbell,pectorals
+dumbbell bench press,none,chest,dumbbell,pectorals
+dumbbell bench seated press,none,shoulders,dumbbell,delts
+dumbbell bench squat,none,upper legs,dumbbell,glutes
+dumbbell bent over row,none,back,dumbbell,upper back
+dumbbell bicep curl lunge with bowling motion,none,upper arms,dumbbell,biceps
+dumbbell bicep curl on exercise ball with leg raised,none,upper arms,dumbbell,biceps
+dumbbell bicep curl with stork stance,none,upper arms,dumbbell,biceps
+dumbbell biceps curl,none,upper arms,dumbbell,biceps
+dumbbell biceps curl (with arm blaster),none,upper arms,dumbbell,biceps
+dumbbell biceps curl reverse,none,upper arms,dumbbell,biceps
+dumbbell biceps curl squat,none,upper arms,dumbbell,biceps
+dumbbell biceps curl v sit on bosu ball,none,upper arms,dumbbell,biceps
+dumbbell burpee,none,cardio,dumbbell,cardiovascular system
+dumbbell clean,none,upper legs,dumbbell,glutes
+dumbbell close grip press,none,upper arms,dumbbell,triceps
+dumbbell close-grip press,none,upper arms,dumbbell,triceps
+dumbbell concentration curl,none,upper arms,dumbbell,biceps
+dumbbell contralateral forward lunge,none,upper legs,dumbbell,glutes
+dumbbell cross body hammer curl,none,upper arms,dumbbell,biceps
+dumbbell cross body hammer curl v. 2,none,upper arms,dumbbell,biceps
+dumbbell cuban press,none,shoulders,dumbbell,delts
+dumbbell cuban press v. 2,none,shoulders,dumbbell,delts
+dumbbell deadlift,none,upper legs,dumbbell,glutes
+dumbbell decline bench press,none,chest,dumbbell,pectorals
+dumbbell decline fly,none,chest,dumbbell,pectorals
+dumbbell decline hammer press,none,chest,dumbbell,pectorals
+dumbbell decline one arm fly,none,chest,dumbbell,pectorals
+dumbbell decline one arm hammer press,none,upper arms,dumbbell,triceps
+dumbbell decline shrug,none,back,dumbbell,traps
+dumbbell decline shrug v. 2,none,back,dumbbell,traps
+dumbbell decline triceps extension,none,upper arms,dumbbell,triceps
+dumbbell decline twist fly,none,chest,dumbbell,pectorals
+dumbbell finger curls,none,lower arms,dumbbell,forearms
+dumbbell fly,none,chest,dumbbell,pectorals
+dumbbell fly on exercise ball,none,chest,dumbbell,pectorals
+dumbbell forward lunge triceps extension,none,upper arms,dumbbell,triceps
+dumbbell front raise,none,shoulders,dumbbell,delts
+dumbbell front raise v. 2,none,shoulders,dumbbell,delts
+dumbbell full can lateral raise,none,shoulders,dumbbell,delts
+dumbbell goblet squat,none,upper legs,dumbbell,quads
+dumbbell hammer curl,none,upper arms,dumbbell,biceps
+dumbbell hammer curl on exercise ball,none,upper arms,dumbbell,biceps
+dumbbell hammer curl v. 2,none,upper arms,dumbbell,biceps
+dumbbell hammer curls (with arm blaster),none,upper arms,dumbbell,biceps
+dumbbell high curl,none,upper arms,dumbbell,biceps
+dumbbell incline alternate press,none,chest,dumbbell,pectorals
+dumbbell incline bench press,none,chest,dumbbell,pectorals
+dumbbell incline biceps curl,none,upper arms,dumbbell,biceps
+dumbbell incline breeding,none,chest,dumbbell,pectorals
+dumbbell incline curl,none,upper arms,dumbbell,biceps
+dumbbell incline curl v. 2,none,upper arms,dumbbell,biceps
+dumbbell incline fly,none,chest,dumbbell,pectorals
+dumbbell incline fly on exercise ball,none,chest,dumbbell,pectorals
+dumbbell incline hammer curl,none,upper arms,dumbbell,biceps
+dumbbell incline hammer press,none,chest,dumbbell,pectorals
+dumbbell incline hammer press on exercise ball,none,upper arms,dumbbell,triceps
+dumbbell incline inner biceps curl,none,upper arms,dumbbell,biceps
+dumbbell incline one arm fly,none,chest,dumbbell,pectorals
+dumbbell incline one arm fly on exercise ball,none,chest,dumbbell,pectorals
+dumbbell incline one arm hammer press,none,upper arms,dumbbell,triceps
+dumbbell incline one arm hammer press on exercise ball,none,upper arms,dumbbell,triceps
+dumbbell incline one arm lateral raise,none,shoulders,dumbbell,delts
+dumbbell incline one arm press,none,chest,dumbbell,pectorals
+dumbbell incline one arm press on exercise ball,none,chest,dumbbell,pectorals
+dumbbell incline palm-in press,none,chest,dumbbell,pectorals
+dumbbell incline press on exercise ball,none,chest,dumbbell,pectorals
+dumbbell incline raise,none,shoulders,dumbbell,delts
+dumbbell incline rear lateral raise,none,shoulders,dumbbell,delts
+dumbbell incline row,none,back,dumbbell,upper back
+dumbbell incline shoulder raise,none,chest,dumbbell,serratus anterior
+dumbbell incline shrug,none,back,dumbbell,traps
+dumbbell incline t-raise,none,shoulders,dumbbell,delts
+dumbbell incline triceps extension,none,upper arms,dumbbell,triceps
+dumbbell incline twisted flyes,none,chest,dumbbell,pectorals
+dumbbell incline two arm extension,none,upper arms,dumbbell,triceps
+dumbbell incline y-raise,none,back,dumbbell,upper back
+dumbbell iron cross,none,shoulders,dumbbell,delts
+dumbbell kickback,none,upper arms,dumbbell,triceps
+dumbbell kickbacks on exercise ball,none,upper arms,dumbbell,triceps
+dumbbell kneeling bicep curl exercise ball,none,upper arms,dumbbell,biceps
+dumbbell lateral raise,none,shoulders,dumbbell,delts
+dumbbell lateral to front raise,none,shoulders,dumbbell,delts
+dumbbell lunge,none,upper legs,dumbbell,glutes
+dumbbell lunge with bicep curl,none,upper arms,dumbbell,biceps
+dumbbell lying extension (across face),none,upper arms,dumbbell,triceps
+dumbbell lying alternate extension,none,upper arms,dumbbell,triceps
+dumbbell lying elbow press,none,upper arms,dumbbell,triceps
+dumbbell lying external shoulder rotation,none,shoulders,dumbbell,delts
+dumbbell lying femoral,none,upper legs,dumbbell,hamstrings
+dumbbell lying hammer press,none,chest,dumbbell,pectorals
+dumbbell lying on floor rear delt raise,none,shoulders,dumbbell,delts
+dumbbell lying one arm deltoid rear,none,shoulders,dumbbell,delts
+dumbbell lying one arm press,none,chest,dumbbell,pectorals
+dumbbell lying one arm press v. 2,none,chest,dumbbell,pectorals
+dumbbell lying one arm pronated triceps extension,none,upper arms,dumbbell,triceps
+dumbbell lying one arm rear lateral raise,none,shoulders,dumbbell,delts
+dumbbell lying one arm supinated triceps extension,none,upper arms,dumbbell,triceps
+dumbbell lying pronation,none,lower arms,dumbbell,forearms
+dumbbell lying pronation on floor,none,lower arms,dumbbell,forearms
+dumbbell lying pullover on exercise ball,none,chest,dumbbell,pectorals
+dumbbell lying rear delt row,none,back,dumbbell,upper back
+dumbbell lying rear lateral raise,none,shoulders,dumbbell,delts
+dumbbell lying single extension,none,upper arms,dumbbell,triceps
+dumbbell lying supination,none,lower arms,dumbbell,forearms
+dumbbell lying supination on floor,none,lower arms,dumbbell,forearms
+dumbbell lying supine biceps curl,none,upper arms,dumbbell,biceps
+dumbbell lying supine curl,none,upper arms,dumbbell,biceps
+dumbbell lying triceps extension,none,upper arms,dumbbell,triceps
+dumbbell lying wide curl,none,upper arms,dumbbell,biceps
+dumbbell neutral grip bench press,none,upper arms,dumbbell,triceps
+dumbbell one arm bench fly,none,chest,dumbbell,pectorals
+dumbbell one arm bent-over row,none,back,dumbbell,upper back
+dumbbell one arm chest fly on exercise ball,none,chest,dumbbell,pectorals
+dumbbell one arm concentration curl (on stability ball),none,upper arms,dumbbell,biceps
+dumbbell one arm decline chest press,none,chest,dumbbell,pectorals
+dumbbell one arm fly on exercise ball,none,chest,dumbbell,pectorals
+dumbbell one arm french press on exercise ball,none,upper arms,dumbbell,triceps
+dumbbell one arm hammer preacher curl,none,upper arms,dumbbell,biceps
+dumbbell one arm hammer press on exercise ball,none,upper arms,dumbbell,triceps
+dumbbell one arm incline chest press,none,chest,dumbbell,pectorals
+dumbbell one arm kickback,none,upper arms,dumbbell,triceps
+dumbbell one arm lateral raise,none,shoulders,dumbbell,delts
+dumbbell one arm lateral raise with support,none,shoulders,dumbbell,delts
+dumbbell one arm press on exercise ball,none,chest,dumbbell,pectorals
+dumbbell one arm prone curl,none,upper arms,dumbbell,biceps
+dumbbell one arm prone hammer curl,none,upper arms,dumbbell,biceps
+dumbbell one arm pullover on exercise ball,none,chest,dumbbell,pectorals
+dumbbell one arm reverse wrist curl,none,lower arms,dumbbell,forearms
+dumbbell one arm reverse fly (with support),none,shoulders,dumbbell,delts
+dumbbell one arm reverse grip press,none,chest,dumbbell,pectorals
+dumbbell one arm reverse preacher curl,none,upper arms,dumbbell,biceps
+dumbbell one arm reverse spider curl,none,upper arms,dumbbell,biceps
+dumbbell one arm seated bicep curl on exercise ball,none,upper arms,dumbbell,biceps
+dumbbell one arm seated hammer curl,none,upper arms,dumbbell,biceps
+dumbbell one arm seated neutral wrist curl,none,lower arms,dumbbell,forearms
+dumbbell one arm shoulder press,none,shoulders,dumbbell,delts
+dumbbell one arm shoulder press v. 2,none,shoulders,dumbbell,delts
+dumbbell one arm snatch,none,upper legs,dumbbell,glutes
+dumbbell one arm standing curl,none,upper arms,dumbbell,biceps
+dumbbell one arm standing hammer curl,none,upper arms,dumbbell,biceps
+dumbbell one arm triceps extension (on bench),none,upper arms,dumbbell,triceps
+dumbbell one arm upright row,none,shoulders,dumbbell,delts
+dumbbell one arm wrist curl,none,lower arms,dumbbell,forearms
+dumbbell one arm zottman preacher curl,none,upper arms,dumbbell,biceps
+dumbbell one leg fly on exercise ball,none,chest,dumbbell,pectorals
+dumbbell over bench neutral wrist curl,none,upper arms,dumbbell,biceps
+dumbbell over bench one arm neutral wrist curl,none,upper arms,dumbbell,biceps
+dumbbell over bench one arm reverse wrist curl,none,lower arms,dumbbell,forearms
+dumbbell over bench one arm wrist curl,none,lower arms,dumbbell,forearms
+dumbbell over bench revers wrist curl,none,lower arms,dumbbell,forearms
+dumbbell over bench wrist curl,none,lower arms,dumbbell,forearms
+dumbbell palm rotational bent over row,none,back,dumbbell,upper back
+dumbbell palms in incline bench press,none,upper arms,dumbbell,triceps
+dumbbell peacher hammer curl,none,upper arms,dumbbell,biceps
+dumbbell plyo squat,none,upper legs,dumbbell,glutes
+dumbbell preacher curl,none,upper arms,dumbbell,biceps
+dumbbell preacher curl over exercise ball,none,upper arms,dumbbell,biceps
+dumbbell press on exercise ball,none,chest,dumbbell,pectorals
+dumbbell pronate-grip triceps extension,none,upper arms,dumbbell,triceps
+dumbbell prone incline curl,none,upper arms,dumbbell,biceps
+dumbbell prone incline hammer curl,none,upper arms,dumbbell,biceps
+dumbbell pullover,none,chest,dumbbell,pectorals
+dumbbell pullover hip extension on exercise ball,none,chest,dumbbell,pectorals
+dumbbell pullover on exercise ball,none,chest,dumbbell,pectorals
+dumbbell push press,none,shoulders,dumbbell,delts
+dumbbell raise,none,shoulders,dumbbell,delts
+dumbbell rear delt raise,none,shoulders,dumbbell,delts
+dumbbell rear delt row_shoulder,none,shoulders,dumbbell,delts
+dumbbell rear fly,none,shoulders,dumbbell,delts
+dumbbell rear lateral raise,none,shoulders,dumbbell,delts
+dumbbell rear lateral raise (support head),none,shoulders,dumbbell,delts
+dumbbell rear lunge,none,upper legs,dumbbell,glutes
+dumbbell revers grip biceps curl,none,upper arms,dumbbell,biceps
+dumbbell reverse bench press,none,chest,dumbbell,pectorals
+dumbbell reverse fly,none,shoulders,dumbbell,delts
+dumbbell reverse grip incline bench one arm row,none,back,dumbbell,upper back
+dumbbell reverse grip incline bench two arm row,none,back,dumbbell,upper back
+dumbbell reverse grip row (female),none,back,dumbbell,upper back
+dumbbell reverse preacher curl,none,upper arms,dumbbell,biceps
+dumbbell reverse spider curl,none,upper arms,dumbbell,biceps
+dumbbell reverse wrist curl,none,lower arms,dumbbell,forearms
+dumbbell romanian deadlift,none,upper legs,dumbbell,glutes
+dumbbell rotation reverse fly,none,shoulders,dumbbell,delts
+dumbbell scott press,none,shoulders,dumbbell,delts
+dumbbell seated alternate front raise,none,shoulders,dumbbell,delts
+dumbbell seated alternate hammer curl on exercise ball,none,upper arms,dumbbell,biceps
+dumbbell seated alternate press,none,shoulders,dumbbell,delts
+dumbbell seated alternate shoulder,none,shoulders,dumbbell,delts
+dumbbell seated bench extension,none,upper arms,dumbbell,triceps
+dumbbell seated bent arm lateral raise,none,shoulders,dumbbell,delts
+dumbbell seated bent over alternate kickback,none,upper arms,dumbbell,triceps
+dumbbell seated bent over triceps extension,none,upper arms,dumbbell,triceps
+dumbbell seated bicep curl,none,upper arms,dumbbell,biceps
+dumbbell seated biceps curl (on stability ball),none,upper arms,dumbbell,biceps
+dumbbell seated biceps curl to shoulder press,none,upper arms,dumbbell,biceps
+dumbbell seated calf raise,none,lower legs,dumbbell,calves
+dumbbell seated curl,none,upper arms,dumbbell,biceps
+dumbbell seated front raise,none,shoulders,dumbbell,delts
+dumbbell seated hammer curl,none,upper arms,dumbbell,biceps
+dumbbell seated inner biceps curl,none,upper arms,dumbbell,biceps
+dumbbell seated kickback,none,upper arms,dumbbell,triceps
+dumbbell seated lateral raise,none,shoulders,dumbbell,delts
+dumbbell seated lateral raise v. 2,none,shoulders,dumbbell,delts
+dumbbell seated neutral wrist curl,none,upper arms,dumbbell,biceps
+dumbbell seated one arm bicep curl on exercise ball with leg raised,none,upper arms,dumbbell,biceps
+dumbbell seated one arm kickback,none,upper arms,dumbbell,triceps
+dumbbell seated one arm rotate,none,lower arms,dumbbell,forearms
+dumbbell seated one leg calf raise,none,lower legs,dumbbell,calves
+dumbbell seated one leg calf raise - hammer grip,none,lower legs,dumbbell,calves
+dumbbell seated one leg calf raise - palm up,none,lower legs,dumbbell,calves
+dumbbell seated palms up wrist curl,none,lower arms,dumbbell,forearms
+dumbbell seated preacher curl,none,upper arms,dumbbell,biceps
+dumbbell seated revers grip concentration curl,none,upper arms,dumbbell,biceps
+dumbbell seated reverse grip one arm overhead tricep extension,none,upper arms,dumbbell,triceps
+dumbbell seated shoulder press,none,shoulders,dumbbell,delts
+dumbbell seated shoulder press (parallel grip),none,shoulders,dumbbell,delts
+dumbbell seated triceps extension,none,upper arms,dumbbell,triceps
+dumbbell shrug,none,back,dumbbell,traps
+dumbbell side bend,none,waist,dumbbell,abs
+dumbbell side lying one hand raise,none,shoulders,dumbbell,delts
+dumbbell side plank with rear fly,none,back,dumbbell,upper back
+dumbbell single arm overhead carry,none,shoulders,dumbbell,delts
+dumbbell single leg calf raise,none,lower legs,dumbbell,calves
+dumbbell single leg deadlift,none,upper legs,dumbbell,glutes
+dumbbell single leg deadlift with stepbox support,none,upper legs,dumbbell,glutes
+dumbbell single leg split squat,none,upper legs,dumbbell,quads
+dumbbell single leg squat,none,upper legs,dumbbell,glutes
+dumbbell squat,none,upper legs,dumbbell,glutes
+dumbbell standing alternate hammer curl and press,none,upper arms,dumbbell,biceps
+dumbbell standing alternate overhead press,none,shoulders,dumbbell,delts
+dumbbell standing alternate raise,none,shoulders,dumbbell,delts
+dumbbell standing alternating tricep kickback,none,upper arms,dumbbell,triceps
+dumbbell standing around world,none,shoulders,dumbbell,delts
+dumbbell standing bent over one arm triceps extension,none,upper arms,dumbbell,triceps
+dumbbell standing bent over two arm triceps extension,none,upper arms,dumbbell,triceps
+dumbbell standing biceps curl,none,upper arms,dumbbell,biceps
+dumbbell standing calf raise,none,lower legs,dumbbell,calves
+dumbbell standing concentration curl,none,upper arms,dumbbell,biceps
+dumbbell standing front raise above head,none,shoulders,dumbbell,delts
+dumbbell standing inner biceps curl v. 2,none,upper arms,dumbbell,biceps
+dumbbell standing kickback,none,upper arms,dumbbell,triceps
+dumbbell standing one arm concentration curl,none,upper arms,dumbbell,biceps
+dumbbell standing one arm curl (over incline bench),none,upper arms,dumbbell,biceps
+dumbbell standing one arm curl over incline bench,none,upper arms,dumbbell,biceps
+dumbbell standing one arm extension,none,upper arms,dumbbell,triceps
+dumbbell standing one arm palm in press,none,shoulders,dumbbell,delts
+dumbbell standing one arm reverse curl,none,upper arms,dumbbell,biceps
+dumbbell standing overhead press,none,shoulders,dumbbell,delts
+dumbbell standing palms in press,none,shoulders,dumbbell,delts
+dumbbell standing preacher curl,none,upper arms,dumbbell,biceps
+dumbbell standing reverse curl,none,upper arms,dumbbell,biceps
+dumbbell standing triceps extension,none,upper arms,dumbbell,triceps
+dumbbell standing zottman preacher curl,none,upper arms,dumbbell,biceps
+dumbbell step up single leg balance with bicep curl,none,upper arms,dumbbell,biceps
+dumbbell step-up,none,upper legs,dumbbell,glutes
+dumbbell step-up lunge,none,upper legs,dumbbell,quads
+dumbbell step-up split squat,none,upper legs,dumbbell,quads
+dumbbell stiff leg deadlift,none,upper legs,dumbbell,glutes
+dumbbell straight arm pullover,none,chest,dumbbell,pectorals
+dumbbell straight leg deadlift,none,upper legs,dumbbell,glutes
+dumbbell sumo pull through,none,upper legs,dumbbell,glutes
+dumbbell supported squat,none,upper legs,dumbbell,quads
+dumbbell tate press,none,upper arms,dumbbell,triceps
+dumbbell tricep kickback with stork stance,none,upper arms,dumbbell,triceps
+dumbbell twisting bench press,none,upper arms,dumbbell,triceps
+dumbbell upright row,none,shoulders,dumbbell,delts
+dumbbell upright row (back pov),none,shoulders,dumbbell,delts
+dumbbell upright shoulder external rotation,none,shoulders,dumbbell,delts
+dumbbell waiter biceps curl,none,upper arms,dumbbell,biceps
+dumbbell w-press,none,shoulders,dumbbell,delts
+dumbbell zottman curl,none,upper arms,dumbbell,biceps
+dumbbell zottman preacher curl,none,upper arms,dumbbell,biceps
+dumbbells seated triceps extension,none,upper arms,dumbbell,triceps
+dynamic chest stretch (male),none,chest,body weight,pectorals
+elbow dips,none,upper arms,body weight,triceps
+elbow lift - reverse push-up,none,back,body weight,upper back
+elbow-to-knee,none,waist,body weight,abs
+elevator,none,back,body weight,upper back
+exercise ball alternating arm ups,none,back,stability ball,lats
+exercise ball back extension with arms extended,none,back,stability ball,spine
+exercise ball back extension with hands behind head,none,back,stability ball,spine
+exercise ball back extension with knees off ground,none,back,stability ball,spine
+exercise ball back extension with rotation,none,back,stability ball,spine
+exercise ball dip,none,upper arms,stability ball,triceps
+exercise ball hip flexor stretch,none,upper legs,stability ball,glutes
+exercise ball hug,none,back,stability ball,spine
+exercise ball lat stretch,none,back,stability ball,lats
+exercise ball lower back stretch (pyramid),none,back,stability ball,lats
+exercise ball lying side lat stretch,none,back,stability ball,lats
+exercise ball on the wall calf raise,none,lower legs,dumbbell,calves
+exercise ball on the wall calf raise (tennis ball between ankles),none,lower legs,dumbbell,calves
+exercise ball on the wall calf raise (tennis ball between knees),none,lower legs,dumbbell,calves
+exercise ball one leg prone lower body rotation,none,upper legs,stability ball,glutes
+exercise ball one legged diagonal kick hamstring curl,none,upper legs,stability ball,glutes
+exercise ball pike push up,none,chest,stability ball,pectorals
+exercise ball prone leg raise,none,back,stability ball,spine
+exercise ball seated hamstring stretch,none,upper legs,stability ball,hamstrings
+exercise ball seated triceps stretch,none,upper arms,stability ball,triceps
+exercise ball supine triceps extension,none,upper arms,dumbbell,triceps
+ez bar french press on exercise ball,none,upper arms,ez barbell,triceps
+ez bar lying bent arms pullover,none,back,ez barbell,lats
+ez bar lying close grip triceps extension behind head,none,upper arms,ez barbell,triceps
+ez bar reverse grip bent over row,none,back,ez barbell,upper back
+ez bar seated close grip concentration curl,none,upper arms,ez barbell,biceps
+ez bar standing french press,none,upper arms,ez barbell,triceps
+ez barbell anti gravity press,none,shoulders,ez barbell,delts
+ez barbell close grip preacher curl,none,upper arms,ez barbell,biceps
+ez barbell close-grip curl,none,upper arms,ez barbell,biceps
+ez barbell curl,none,upper arms,ez barbell,biceps
+ez barbell decline close grip face press,none,upper arms,ez barbell,triceps
+ez barbell decline triceps extension,none,upper arms,ez barbell,triceps
+ez barbell incline triceps extension,none,upper arms,ez barbell,triceps
+ez barbell jm bench press,none,upper arms,ez barbell,triceps
+ez barbell reverse grip curl,none,upper arms,ez barbell,biceps
+ez barbell reverse grip preacher curl,none,upper arms,ez barbell,biceps
+ez barbell seated curls,none,upper arms,ez barbell,biceps
+ez barbell seated triceps extension,none,upper arms,ez barbell,triceps
+ez barbell spider curl,none,upper arms,ez barbell,biceps
+ez barbell spider curl,none,upper arms,ez barbell,biceps
+ez-bar biceps curl (with arm blaster),none,upper arms,ez barbell,biceps
+ez-bar close-grip bench press,none,upper arms,ez barbell,triceps
+ez-barbell standing wide grip biceps curl,none,upper arms,ez barbell,biceps
+farmers walk,none,upper legs,dumbbell,quads
+finger curls,none,lower arms,barbell,forearms
+flag,none,waist,body weight,abs
+flexion leg sit up (bent knee),none,waist,body weight,abs
+flexion leg sit up (straight arm),none,waist,body weight,abs
+floor fly (with barbell),none,chest,barbell,pectorals
+flutter kicks,none,upper legs,body weight,glutes
+forward jump,none,upper legs,body weight,quads
+forward lunge (male),none,upper legs,body weight,glutes
+frankenstein squat,none,upper legs,barbell,glutes
+frog crunch,none,waist,body weight,abs
+frog planche,none,waist,body weight,abs
+front lever,none,waist,body weight,abs
+front lever reps,none,back,body weight,upper back
+front plank with twist,none,waist,body weight,abs
+full maltese,none,waist,body weight,abs
+full planche,none,waist,body weight,abs
+full planche push-up,none,chest,body weight,pectorals
+gironda sternum chin,none,back,body weight,lats
+glute bridge march,none,upper legs,body weight,glutes
+glute bridge two legs on bench (male),none,upper legs,body weight,glutes
+glute-ham raise,none,upper legs,body weight,hamstrings
+gorilla chin,none,waist,body weight,abs
+groin crunch,none,waist,body weight,abs
+hack calf raise,none,lower legs,sled machine,calves
+hack one leg calf raise,none,lower legs,sled machine,calves
+half knee bends (male),none,cardio,body weight,cardiovascular system
+half sit-up (male),none,waist,body weight,abs
+hamstring stretch,none,upper legs,body weight,hamstrings
+hands bike,none,chest,upper body ergometer,pectorals
+hands clasped circular toe touch (male),none,upper legs,body weight,glutes
+hands reversed clasped circular toe touch (male),none,upper legs,body weight,glutes
+handstand,none,upper arms,body weight,triceps
+handstand push-up,none,upper arms,body weight,triceps
+hanging leg hip raise,none,waist,body weight,abs
+hanging leg raise,none,waist,body weight,abs
+hanging oblique knee raise,none,waist,body weight,abs
+hanging pike,none,waist,body weight,abs
+hanging straight leg hip raise,none,waist,body weight,abs
+hanging straight leg raise,none,waist,body weight,abs
+hanging straight twisting leg hip raise,none,waist,body weight,abs
+high knee against wall,none,cardio,body weight,cardiovascular system
+hip raise (bent knee),none,waist,body weight,abs
+hug keens to chest,none,upper legs,body weight,glutes
+hyght dumbbell fly,none,chest,dumbbell,pectorals
+hyperextension,none,back,body weight,spine
+hyperextension (on bench),none,back,body weight,spine
+impossible dips,none,upper arms,body weight,triceps
+inchworm,none,waist,body weight,abs
+inchworm v. 2,none,waist,body weight,abs
+incline close-grip push-up,none,upper arms,body weight,triceps
+incline leg hip raise (leg straight),none,waist,body weight,abs
+incline push up depth jump,none,chest,body weight,pectorals
+incline push-up,none,chest,body weight,pectorals
+incline push-up (on box),none,chest,body weight,pectorals
+incline reverse grip push-up,none,chest,body weight,pectorals
+incline scapula push up,none,chest,body weight,serratus anterior
+incline twisting sit-up,none,waist,body weight,abs
+intermediate hip flexor and quad stretch,none,upper legs,rope,quads
+inverse leg curl (bench support),none,upper legs,body weight,hamstrings
+inverse leg curl (on pull-up cable machine),none,upper legs,body weight,hamstrings
+inverted row,none,back,body weight,upper back
+inverted row bent knees,none,back,body weight,upper back
+inverted row on bench,none,back,body weight,upper back
+inverted row v. 2,none,back,body weight,upper back
+inverted row with straps,none,back,body weight,upper back
+iron cross stretch,none,upper legs,body weight,glutes
+isometric chest squeeze,none,chest,body weight,pectorals
+isometric wipers,none,chest,body weight,pectorals
+jack burpee,none,cardio,body weight,cardiovascular system
+jack jump (male),none,cardio,body weight,cardiovascular system
+jackknife sit-up,none,waist,body weight,abs
+janda sit-up,none,waist,body weight,abs
+jump rope,none,cardio,rope,cardiovascular system
+jump squat,none,upper legs,body weight,glutes
+jump squat v. 2,none,upper legs,body weight,glutes
+kettlebell advanced windmill,none,waist,kettlebell,abs
+kettlebell alternating hang clean,none,lower arms,kettlebell,forearms
+kettlebell alternating press,none,shoulders,kettlebell,delts
+kettlebell alternating press on floor,none,chest,kettlebell,pectorals
+kettlebell alternating renegade row,none,back,kettlebell,upper back
+kettlebell alternating row,none,back,kettlebell,upper back
+kettlebell arnold press,none,shoulders,kettlebell,delts
+kettlebell bent press,none,waist,kettlebell,abs
+kettlebell bottoms up clean from the hang position,none,upper arms,kettlebell,biceps
+kettlebell double alternating hang clean,none,upper arms,kettlebell,biceps
+kettlebell double jerk,none,shoulders,kettlebell,delts
+kettlebell double push press,none,shoulders,kettlebell,delts
+kettlebell double snatch,none,shoulders,kettlebell,delts
+kettlebell double windmill,none,waist,kettlebell,abs
+kettlebell extended range one arm press on floor,none,chest,kettlebell,pectorals
+kettlebell figure 8,none,waist,kettlebell,abs
+kettlebell front squat,none,upper legs,kettlebell,glutes
+kettlebell goblet squat,none,upper legs,kettlebell,glutes
+kettlebell hang clean,none,upper legs,kettlebell,hamstrings
+kettlebell lunge pass through,none,upper legs,kettlebell,glutes
+kettlebell one arm clean and jerk,none,shoulders,kettlebell,delts
+kettlebell one arm floor press,none,chest,kettlebell,pectorals
+kettlebell one arm jerk,none,shoulders,kettlebell,delts
+kettlebell one arm military press to the side,none,shoulders,kettlebell,delts
+kettlebell one arm push press,none,shoulders,kettlebell,delts
+kettlebell one arm row,none,back,kettlebell,upper back
+kettlebell one arm snatch,none,shoulders,kettlebell,delts
+kettlebell pirate supper legs,none,shoulders,kettlebell,delts
+kettlebell pistol squat,none,upper legs,kettlebell,glutes
+kettlebell plyo push-up,none,chest,kettlebell,pectorals
+kettlebell seated press,none,shoulders,kettlebell,delts
+kettlebell seated two arm military press,none,shoulders,kettlebell,delts
+kettlebell seesaw press,none,shoulders,kettlebell,delts
+kettlebell sumo high pull,none,back,kettlebell,traps
+kettlebell swing,none,upper legs,kettlebell,glutes
+kettlebell thruster,none,shoulders,kettlebell,delts
+kettlebell turkish get up (squat style),none,upper legs,kettlebell,glutes
+kettlebell two arm clean,none,shoulders,kettlebell,delts
+kettlebell two arm military press,none,shoulders,kettlebell,delts
+kettlebell two arm row,none,back,kettlebell,upper back
+kettlebell windmill,none,waist,kettlebell,abs
+kick out sit,none,upper legs,body weight,hamstrings
+kipping muscle up,none,back,body weight,lats
+knee touch crunch,none,waist,body weight,abs
+kneeling jump squat,none,upper legs,barbell,glutes
+kneeling lat stretch,none,back,body weight,lats
+kneeling plank tap shoulder (male),none,waist,body weight,abs
+kneeling push-up (male),none,chest,body weight,pectorals
+korean dips,none,chest,body weight,pectorals
+l-pull-up,none,back,body weight,lats
+l-sit on floor,none,waist,body weight,abs
+landmine 180,none,waist,barbell,abs
+landmine lateral raise,none,shoulders,barbell,delts
+lean planche,none,waist,body weight,abs
+left hook. boxing,none,shoulders,body weight,delts
+leg pull in flat bench,none,waist,body weight,abs
+leg up hamstring stretch,none,upper legs,body weight,hamstrings
+lever alternate leg press,none,upper legs,leverage machine,quads
+lever alternating narrow grip seated row,none,back,leverage machine,upper back
+lever assisted chin-up,none,back,leverage machine,lats
+lever back extension,none,back,leverage machine,spine
+lever bent over row,none,back,barbell,upper back
+lever bent-over row with v-bar,none,back,leverage machine,upper back
+lever bicep curl,none,upper arms,leverage machine,biceps
+lever calf press,none,lower legs,leverage machine,calves
+lever chest press,none,chest,leverage machine,pectorals
+lever chest press,none,chest,leverage machine,pectorals
+lever deadlift,none,upper legs,leverage machine,glutes
+lever decline chest press,none,chest,leverage machine,pectorals
+lever donkey calf raise,none,lower legs,leverage machine,calves
+lever front pulldown,none,back,leverage machine,lats
+lever gripless shrug,none,back,leverage machine,traps
+lever gripless shrug v. 2,none,back,leverage machine,traps
+lever gripper hands,none,lower arms,leverage machine,forearms
+lever hammer grip preacher curl,none,upper arms,leverage machine,biceps
+lever high row,none,back,leverage machine,upper back
+lever hip extension v. 2,none,upper legs,leverage machine,glutes
+lever horizontal one leg press,none,upper legs,leverage machine,glutes
+lever incline chest press,none,chest,leverage machine,pectorals
+lever incline chest press v. 2,none,chest,leverage machine,pectorals
+lever kneeling leg curl,none,upper legs,leverage machine,hamstrings
+lever kneeling twist,none,waist,leverage machine,abs
+lever lateral raise,none,shoulders,leverage machine,delts
+lever leg extension,none,upper legs,leverage machine,quads
+lever lying leg curl,none,upper legs,leverage machine,hamstrings
+lever lying two-one leg curl,none,upper legs,leverage machine,hamstrings
+lever military press,none,shoulders,leverage machine,delts
+lever narrow grip seated row,none,back,leverage machine,upper back
+lever one arm bent over row,none,back,barbell,upper back
+lever one arm lateral high row,none,back,leverage machine,upper back
+lever one arm lateral wide pulldown,none,back,leverage machine,lats
+lever one arm shoulder press,none,shoulders,leverage machine,delts
+lever overhand triceps dip,none,upper arms,leverage machine,triceps
+lever preacher curl,none,upper arms,leverage machine,biceps
+lever preacher curl v. 2,none,upper arms,leverage machine,biceps
+lever pullover,none,back,leverage machine,lats
+lever reverse grip lateral pulldown,none,back,leverage machine,lats
+lever reverse grip preacher curl,none,upper arms,leverage machine,biceps
+lever reverse grip vertical row,none,back,leverage machine,upper back
+lever reverse hyperextension,none,upper legs,leverage machine,glutes
+lever reverse t-bar row,none,back,leverage machine,upper back
+lever rotary calf,none,lower legs,leverage machine,calves
+lever seated calf press,none,lower legs,leverage machine,calves
+lever seated calf raise,none,lower legs,leverage machine,calves
+lever seated crunch,none,waist,leverage machine,abs
+lever seated crunch (chest pad),none,waist,leverage machine,abs
+lever seated crunch v. 2,none,waist,leverage machine,abs
+lever seated dip,none,upper arms,leverage machine,triceps
+lever seated fly,none,chest,leverage machine,pectorals
+lever seated good morning,none,upper legs,leverage machine,glutes
+lever seated hip abduction,none,upper legs,leverage machine,abductors
+lever seated hip adduction,none,upper legs,leverage machine,adductors
+lever seated leg curl,none,upper legs,leverage machine,hamstrings
+lever seated leg raise crunch,none,waist,leverage machine,abs
+lever seated reverse fly,none,shoulders,leverage machine,delts
+lever seated reverse fly (parallel grip),none,shoulders,leverage machine,delts
+lever seated row,none,back,leverage machine,upper back
+lever seated squat calf raise on leg press machine,none,lower legs,leverage machine,calves
+lever shoulder press,none,shoulders,leverage machine,delts
+lever shoulder press v. 2,none,shoulders,leverage machine,delts
+lever shoulder press v. 3,none,shoulders,leverage machine,delts
+lever shrug,none,back,leverage machine,traps
+lever standing calf raise,none,lower legs,leverage machine,calves
+lever standing chest press,none,chest,leverage machine,pectorals
+lever t bar row,none,back,leverage machine,upper back
+lever t-bar reverse grip row,none,back,leverage machine,upper back
+lever triceps extension,none,upper arms,leverage machine,triceps
+lever unilateral row,none,back,leverage machine,upper back
+london bridge,none,back,rope,upper back
+low glute bridge on floor,none,upper legs,body weight,glutes
+lower back curl,none,back,body weight,spine
+lunge with jump,none,upper legs,body weight,glutes
+lunge with twist,none,waist,body weight,abs
+lying (side) quads stretch,none,upper legs,body weight,quads
+lying elbow to knee,none,waist,body weight,abs
+lying leg raise flat bench,none,waist,body weight,abs
+lying leg-hip raise,none,waist,body weight,abs
+machine inner chest press,none,chest,leverage machine,pectorals
+march sit (wall),none,upper legs,body weight,glutes
+medicine ball catch and overhead throw,none,back,medicine ball,lats
+medicine ball chest pass,none,chest,medicine ball,pectorals
+medicine ball chest push from 3 point stance,none,chest,medicine ball,pectorals
+medicine ball chest push multiple response,none,chest,medicine ball,pectorals
+medicine ball chest push single response,none,chest,medicine ball,pectorals
+medicine ball chest push with run release,none,chest,medicine ball,pectorals
+medicine ball close grip push up,none,upper arms,medicine ball,triceps
+medicine ball overhead slam,none,back,medicine ball,upper back
+medicine ball supine chest throw,none,upper arms,medicine ball,triceps
+mixed grip chin-up,none,back,body weight,lats
+modified hindu push-up (male),none,chest,body weight,pectorals
+modified push up to lower arms,none,lower arms,body weight,forearms
+monster walk,none,upper legs,body weight,glutes
+mountain climber,none,cardio,body weight,cardiovascular system
+muscle up,none,back,body weight,lats
+muscle-up (on vertical bar),none,back,body weight,lats
+narrow push-up on exercise ball,none,upper arms,stability ball,triceps
+neck side stretch,none,neck,body weight,levator scapulae
+negative crunch,none,waist,body weight,abs
+oblique crunch v. 2,none,waist,body weight,abs
+oblique crunches floor,none,waist,body weight,abs
+olympic barbell hammer curl,none,upper arms,olympic barbell,biceps
+olympic barbell triceps extension,none,upper arms,olympic barbell,triceps
+one arm against wall,none,back,body weight,lats
+one arm chin-up,none,back,body weight,lats
+one arm dip,none,upper arms,body weight,triceps
+one arm slam (with medicine ball),none,waist,medicine ball,abs
+one arm towel row,none,back,body weight,upper back
+one leg donkey calf raise,none,lower legs,body weight,calves
+one leg floor calf raise,none,lower legs,body weight,calves
+one leg squat,none,upper legs,body weight,glutes
+otis up,none,waist,weighted,abs
+outside leg kick push-up,none,upper legs,body weight,glutes
+overhead triceps stretch,none,upper arms,body weight,triceps
+pelvic tilt,none,waist,body weight,abs
+pelvic tilt into bridge,none,upper legs,body weight,glutes
+peroneals stretch,none,lower legs,rope,calves
+pike-to-cobra push-up,none,upper legs,body weight,glutes
+plyo push up,none,chest,body weight,pectorals
+posterior step to overhead reach,none,waist,body weight,abs
+posterior tibialis stretch,none,lower legs,rope,calves
+potty squat,none,waist,body weight,abs
+potty squat with support,none,upper legs,body weight,glutes
+power clean,none,upper legs,barbell,hamstrings
+power point plank,none,waist,body weight,abs
+prisoner half sit-up (male),none,waist,body weight,abs
+prone twist on stability ball,none,waist,stability ball,abs
+pull up (neutral grip),none,back,body weight,lats
+pull-in (on stability ball),none,waist,stability ball,abs
+pull-up,none,back,body weight,lats
+push and pull bodyweight,none,chest,body weight,pectorals
+push to run,none,cardio,body weight,cardiovascular system
+push up on bosu ball,none,chest,bosu ball,pectorals
+push-up,none,chest,body weight,pectorals
+push-up (bosu ball),none,chest,bosu ball,pectorals
+push-up (on stability ball),none,chest,stability ball,pectorals
+push-up (on stability ball),none,chest,stability ball,pectorals
+push-up (wall),none,chest,body weight,pectorals
+push-up (wall) v. 2,none,chest,body weight,pectorals
+push-up close-grip off dumbbell,none,upper arms,dumbbell,triceps
+push-up inside leg kick,none,upper legs,body weight,glutes
+push-up medicine ball,none,chest,medicine ball,pectorals
+push-up on lower arms,none,upper arms,body weight,triceps
+push-up plus,none,chest,body weight,pectorals
+push-up to side plank,none,waist,body weight,abs
+quads,none,upper legs,body weight,quads
+quarter sit-up,none,waist,body weight,abs
+quick feet v. 2,none,upper legs,body weight,quads
+raise single arm push-up,none,chest,body weight,pectorals
+rear decline bridge,none,upper legs,body weight,glutes
+rear deltoid stretch,none,shoulders,body weight,delts
+rear pull-up,none,back,body weight,lats
+reclining big toe pose with rope,none,upper legs,rope,hamstrings
+resistance band hip thrusts on knees (female),none,upper legs,resistance band,glutes
+resistance band leg extension,none,upper legs,resistance band,quads
+resistance band seated biceps curl,none,upper arms,resistance band,biceps
+resistance band seated chest press,none,chest,resistance band,pectorals
+resistance band seated hip abduction,none,upper legs,resistance band,abductors
+resistance band seated shoulder press,none,shoulders,resistance band,delts
+resistance band seated straight back row,none,back,resistance band,upper back
+reverse crunch,none,waist,body weight,abs
+reverse dip,none,upper arms,body weight,triceps
+reverse grip machine lat pulldown,none,back,leverage machine,lats
+reverse grip pull-up,none,back,body weight,lats
+reverse hyper extension (on stability ball),none,upper legs,stability ball,glutes
+reverse hyper on flat bench,none,upper legs,body weight,glutes
+reverse plank with leg lift,none,waist,body weight,abs
+ring dips,none,upper arms,body weight,triceps
+rocking frog stretch,none,upper legs,body weight,glutes
+rocky pull-up pulldown,none,back,body weight,lats
+roller back stretch,none,back,roller,spine
+roller body saw,none,waist,roller,abs
+roller hip lat stretch,none,upper legs,roller,glutes
+roller hip stretch,none,upper legs,roller,glutes
+roller reverse crunch,none,waist,roller,abs
+roller seated shoulder flexor depresor retractor,none,chest,roller,pectorals
+roller seated single leg shoulder flexor depresor retractor,none,chest,roller,pectorals
+roller side lat stretch,none,back,roller,lats
+rope climb,none,back,rope,upper back
+run,none,cardio,body weight,cardiovascular system
+run (equipment),none,cardio,body weight,cardiovascular system
+runners stretch,none,upper legs,body weight,hamstrings
+russian twist,none,waist,body weight,abs
+scapula dips,none,back,body weight,traps
+scapula push-up,none,chest,body weight,serratus anterior
+scapular pull-up,none,back,body weight,traps
+scissor jumps (male),none,cardio,body weight,cardiovascular system
+seated calf stretch (male),none,lower legs,body weight,calves
+seated glute stretch,none,upper legs,body weight,glutes
+seated leg raise,none,waist,body weight,abs
+seated lower back stretch,none,back,body weight,lats
+seated piriformis stretch,none,upper legs,body weight,glutes
+seated side crunch (wall),none,waist,body weight,abs
+seated wide angle pose sequence,none,upper legs,body weight,hamstrings
+self assisted inverse leg curl,none,upper legs,body weight,hamstrings
+self assisted inverse leg curl,none,upper legs,body weight,hamstrings
+self assisted inverse leg curl (on floor),none,upper legs,body weight,hamstrings
+semi squat jump (male),none,cardio,body weight,cardiovascular system
+short stride run,none,cardio,body weight,cardiovascular system
+shoulder grip pull-up,none,back,body weight,lats
+shoulder tap,none,waist,body weight,abs
+shoulder tap push-up,none,chest,body weight,pectorals
+side bridge hip abduction,none,upper legs,body weight,abductors
+side bridge v. 2,none,waist,body weight,abs
+side hip (on parallel bars),none,waist,body weight,abs
+side hip abduction,none,upper legs,body weight,abductors
+side lying floor stretch,none,back,body weight,lats
+side lying hip adduction (male),none,upper legs,body weight,adductors
+side plank hip adduction,none,upper legs,body weight,adductors
+side push neck stretch,none,neck,body weight,levator scapulae
+side push-up,none,upper arms,body weight,triceps
+side wrist pull stretch,none,lower arms,body weight,forearms
+side-to-side chin,none,back,body weight,lats
+side-to-side toe touch (male),none,waist,body weight,abs
+single arm push-up,none,chest,body weight,pectorals
+single leg bridge with outstretched leg,none,upper legs,body weight,glutes
+single leg calf raise (on a dumbbell),none,lower legs,dumbbell,calves
+single leg platform slide,none,upper legs,body weight,hamstrings
+single leg squat (pistol) male,none,upper legs,body weight,glutes
+sissy squat,none,upper legs,body weight,quads
+sit-up v. 2,none,waist,body weight,abs
+sit-up with arms on chest,none,waist,body weight,abs
+skater hops,none,cardio,body weight,cardiovascular system
+ski ergometer,none,upper arms,skierg machine,triceps
+ski step,none,cardio,body weight,cardiovascular system
+skin the cat,none,back,body weight,upper back
+sled 45 degrees one leg press,none,upper legs,sled machine,glutes
+sled 45ÃÂ²ÃÂ° calf press,none,lower legs,sled machine,calves
+sled 45ÃÂ²ÃÂ° leg press,none,upper legs,sled machine,glutes
+sled 45ÃÂ²ÃÂ° leg press (back pov),none,upper legs,sled machine,glutes
+sled 45ÃÂ° leg press (side pov),none,upper legs,sled machine,glutes
+sled 45ÃÂ²ÃÂ° leg wide press,none,upper legs,sled machine,glutes
+sled calf press on leg press,none,lower legs,sled machine,calves
+sled closer hack squat,none,upper legs,sled machine,glutes
+sled forward angled calf raise,none,lower legs,sled machine,calves
+sled hack squat,none,upper legs,sled machine,glutes
+sled lying calf press,none,lower legs,sled machine,calves
+sled lying squat,none,upper legs,sled machine,glutes
+sled one leg calf press on leg press,none,lower legs,sled machine,calves
+sledge hammer,none,waist,hammer,abs
+smith back shrug,none,back,smith machine,traps
+smith behind neck press,none,shoulders,smith machine,delts
+smith bench press,none,chest,smith machine,pectorals
+smith bent knee good morning,none,upper legs,smith machine,glutes
+smith bent over row,none,back,smith machine,upper back
+smith chair squat,none,upper legs,smith machine,quads
+smith close-grip bench press,none,upper arms,smith machine,triceps
+smith deadlift,none,upper legs,smith machine,glutes
+smith decline bench press,none,chest,smith machine,pectorals
+smith decline reverse-grip press,none,chest,smith machine,pectorals
+smith front squat (clean grip),none,upper legs,smith machine,glutes
+smith full squat,none,upper legs,smith machine,glutes
+smith hack squat,none,upper legs,smith machine,glutes
+smith hip raise,none,waist,smith machine,abs
+smith incline bench press,none,chest,smith machine,pectorals
+smith incline reverse-grip press,none,chest,smith machine,pectorals
+smith incline shoulder raises,none,chest,smith machine,serratus anterior
+smith leg press,none,upper legs,smith machine,glutes
+smith low bar squat,none,upper legs,smith machine,glutes
+smith machine bicep curl,none,upper arms,smith machine,biceps
+smith machine decline close grip bench press,none,upper arms,smith machine,triceps
+smith machine incline tricep extension,none,upper arms,smith machine,triceps
+smith machine reverse decline close grip bench press,none,chest,smith machine,pectorals
+smith narrow row,none,back,smith machine,upper back
+smith one arm row,none,back,smith machine,upper back
+smith one leg floor calf raise,none,lower legs,smith machine,calves
+smith rear delt row,none,shoulders,smith machine,delts
+smith reverse calf raises,none,lower legs,smith machine,calves
+smith reverse calf raises,none,lower legs,smith machine,calves
+smith reverse grip bent over row,none,back,smith machine,upper back
+smith reverse-grip press,none,chest,smith machine,pectorals
+smith seated one leg calf raise,none,lower legs,smith machine,calves
+smith seated shoulder press,none,shoulders,smith machine,delts
+smith seated wrist curl,none,lower arms,smith machine,forearms
+smith shoulder press,none,shoulders,smith machine,delts
+smith shrug,none,back,smith machine,traps
+smith single leg split squat,none,upper legs,smith machine,quads
+smith sprint lunge,none,upper legs,smith machine,glutes
+smith squat,none,upper legs,smith machine,glutes
+smith standing back wrist curl,none,lower arms,smith machine,forearms
+smith standing behind head military press,none,shoulders,smith machine,delts
+smith standing leg calf raise,none,lower legs,smith machine,calves
+smith standing military press,none,shoulders,smith machine,delts
+smith sumo squat,none,upper legs,smith machine,glutes
+smith toe raise,none,lower legs,smith machine,calves
+smith upright row,none,shoulders,smith machine,delts
+smith wide grip bench press,none,chest,smith machine,pectorals
+smith wide grip decline bench press,none,chest,smith machine,pectorals
+snatch pull,none,upper legs,barbell,quads
+spell caster,none,waist,dumbbell,abs
+sphinx,none,back,body weight,spine
+spider crawl push up,none,upper legs,body weight,glutes
+spine stretch,none,back,body weight,spine
+spine twist,none,waist,body weight,abs
+split squats,none,upper legs,body weight,quads
+squat jerk,none,upper legs,barbell,quads
+squat on bosu ball,none,upper legs,bosu ball,quads
+squat to overhead reach,none,upper legs,body weight,quads
+squat to overhead reach with twist,none,upper legs,body weight,quads
+stability ball crunch (full range hands behind head),none,waist,stability ball,abs
+stalder press,none,upper arms,body weight,triceps
+standing archer,none,back,body weight,upper back
+standing behind neck press,none,shoulders,barbell,delts
+standing calf raise (on a staircase),none,lower legs,body weight,calves
+standing calves,none,lower legs,body weight,calves
+standing calves calf stretch,none,lower legs,body weight,calves
+standing hamstring and calf stretch with strap,none,upper legs,rope,hamstrings
+standing lateral stretch,none,back,body weight,lats
+standing pelvic tilt,none,back,body weight,spine
+standing single leg curl,none,upper legs,body weight,hamstrings
+standing wheel rollerout,none,waist,wheel roller,abs
+star jump (male),none,cardio,body weight,cardiovascular system
+stationary bike run v. 3,none,cardio,stationary bike,cardiovascular system
+stationary bike walk,none,cardio,leverage machine,cardiovascular system
+straddle maltese,none,waist,body weight,abs
+straddle planche,none,waist,body weight,abs
+straight leg outer hip abductor,none,upper legs,body weight,abductors
+superman push-up,none,chest,body weight,pectorals
+suspended abdominal fallout,none,waist,body weight,abs
+suspended push-up,none,chest,body weight,pectorals
+suspended reverse crunch,none,waist,body weight,abs
+suspended row,none,back,body weight,upper back
+suspended split squat,none,upper legs,body weight,quads
+swimmer kicks v. 2 (male),none,upper legs,body weight,glutes
+swing 360,none,cardio,body weight,cardiovascular system
+three bench dip,none,upper arms,body weight,triceps
+tire flip,none,upper legs,tire,glutes
+trap bar deadlift,none,upper legs,trap bar,glutes
+triceps dip,none,upper arms,body weight,triceps
+triceps dip (bench leg),none,upper arms,body weight,triceps
+triceps dip (between benches),none,upper arms,body weight,triceps
+triceps dips floor,none,upper arms,body weight,triceps
+triceps press,none,upper arms,body weight,triceps
+triceps stretch,none,upper arms,body weight,triceps
+tuck crunch,none,waist,body weight,abs
+twin handle parallel grip lat pulldown,none,back,cable,lats
+twist hip lift,none,upper legs,body weight,glutes
+twisted leg raise,none,waist,body weight,abs
+twisted leg raise (female),none,waist,body weight,abs
+two toe touch (male),none,back,body weight,spine
+upper back stretch,none,back,body weight,upper back
+upward facing dog,none,back,body weight,spine
+v-sit on floor,none,waist,body weight,abs
+vertical leg raise (on parallel bars),none,waist,body weight,abs
+walk elliptical cross trainer,none,cardio,elliptical machine,cardiovascular system
+walking high knees lunge,none,cardio,body weight,cardiovascular system
+walking lunge,none,upper legs,body weight,glutes
+walking on incline treadmill,none,cardio,leverage machine,cardiovascular system
+walking on stepmill,none,cardio,stepmill machine,cardiovascular system
+weighted bench dip,none,upper arms,weighted,triceps
+weighted close grip chin-up on dip cage,none,back,weighted,lats
+weighted cossack squats (male),none,upper legs,weighted,glutes
+weighted crunch,none,waist,weighted,abs
+weighted decline sit-up,none,waist,weighted,abs
+weighted donkey calf raise,none,lower legs,weighted,calves
+weighted drop push up,none,chest,weighted,pectorals
+weighted front plank,none,waist,weighted,abs
+weighted front raise,none,shoulders,weighted,delts
+weighted hanging leg-hip raise,none,waist,weighted,abs
+weighted hyperextension (on stability ball),none,back,weighted,spine
+weighted kneeling step with swing,none,shoulders,weighted,delts
+weighted lunge with swing,none,upper legs,weighted,glutes
+weighted muscle up,none,back,weighted,lats
+weighted muscle up (on bar),none,back,weighted,lats
+weighted one hand pull up,none,back,weighted,lats
+weighted overhead crunch (on stability ball),none,waist,weighted,abs
+weighted pull-up,none,back,weighted,lats
+weighted round arm,none,shoulders,weighted,delts
+weighted russian twist,none,waist,weighted,abs
+weighted russian twist (legs up),none,waist,weighted,abs
+weighted russian twist v. 2,none,waist,weighted,abs
+weighted seated bicep curl (on stability ball),none,upper arms,medicine ball,biceps
+weighted seated twist (on stability ball),none,waist,weighted,abs
+weighted side bend (on stability ball),none,waist,weighted,abs
+weighted sissy squat,none,upper legs,weighted,quads
+weighted squat,none,upper legs,weighted,glutes
+weighted standing curl,none,upper arms,weighted,biceps
+weighted standing hand squeeze,none,lower arms,weighted,forearms
+weighted straight bar dip,none,chest,weighted,pectorals
+weighted stretch lunge,none,upper legs,weighted,glutes
+weighted svend press,none,chest,weighted,pectorals
+weighted three bench dips,none,upper arms,weighted,triceps
+weighted tricep dips,none,upper arms,weighted,triceps
+weighted triceps dip on high parallel bars,none,upper arms,weighted,triceps
+wheel rollerout,none,waist,wheel roller,abs
+wheel run,none,cardio,body weight,cardiovascular system
+wide grip pull-up,none,back,body weight,lats
+wide grip rear pull-up,none,back,body weight,lats
+wide hand push up,none,chest,body weight,pectorals
+wide-grip chest dip on high parallel bars,none,chest,body weight,pectorals
+wind sprints,none,waist,body weight,abs
+world greatest stretch,none,upper legs,body weight,hamstrings
+wrist circles,none,lower arms,body weight,forearms
+wrist rollerer,none,lower arms,weighted,forearms
