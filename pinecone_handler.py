@@ -15,8 +15,9 @@ from tqdm import tqdm
 from sklearn.decomposition import PCA
 
 
-
 def get_index(index_name):
+    
+    load_dotenv()
 
     api_key = os.getenv('PINECONE_API_KEY')
     pc = Pinecone(api_key=api_key, pool_threads=30)
@@ -62,8 +63,6 @@ def main():
 
     directory_path = r'.\data\\plan\\'
     pdf_files = get_pdfs(directory_path)
-
-    load_dotenv()
 
     index_name = 'champi'
     index = get_index(index_name)
@@ -141,7 +140,7 @@ def main():
     # # Flatten embedded_vectors if it's a list of lists
     embedded_vectors = [item for sublist in embedded_vectors for item in sublist]
 
-    embedded_ids = [str(uuid.uuid4()) for _ in range(len(embedded_vectors))]
+    embedded_ids = [str(i + 1) for i in range(len(embedded_vectors))]
 
     metadata = []
     for doc in vectors_dictionary.items():
@@ -180,10 +179,6 @@ def main():
             break
 
     print(current_stats)
-
-
-
-
 
 
 

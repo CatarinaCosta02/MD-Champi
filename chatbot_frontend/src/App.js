@@ -5,7 +5,7 @@ import { IoSend } from "react-icons/io5";
 
 
 function ChatBot() {
-  const [messages, setMessages] = useState(['Hello I am your AI training assistant.', '']);
+  const [messages, setMessages] = useState(['Hello! I am your AI training assistant.', '']);
   const [inputValue, setInputValue] = useState('');
 
   const sendMessage = () => {

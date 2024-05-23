@@ -9,3 +9,4 @@ pytest
 pandas
 tqdm
 scikit-learn
+langchainhub
